@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[greek, english]{babel}
+\usepackage{alphabeta}
+\usepackage{libertine}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}  % For hyperlinks without borders
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+	
+	\begin{titlepage}
+		\centering
+		\includegraphics[width=0.8\textwidth]{aueb_logo.jpg}
+		\vfill
+		\Huge\textbf{Your Title}
+		\vspace{1cm}
+		\Large\textbf{Your Subtitle}
+		\vfill
+		\today
+	\end{titlepage}
+	
+	\tableofcontents  % Add a table of contents
+	
+	\newpage  % Start content on a new page
+	
+	\section{Επιλογή Δικτύου}
+	Your content for Chapter 1 goes here.
+	\label{chap:network_selection}  % Add a label to refer to this section
+	
+	\section{Επεξεργασία-Καθαρισμός δεδομένων}
+	Your content for Chapter 2 goes here.
+	\label{chap:data_processing}  % Add a label to refer to this section
+	
+\end{document}
