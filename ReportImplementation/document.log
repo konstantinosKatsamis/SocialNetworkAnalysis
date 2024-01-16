@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  16 JAN 2024 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  16 JAN 2024 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
 \c@section=\count188
@@ -660,8 +660,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks22
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
- on input line 10.
+ on input line 19.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxlibert
 inet-tlf.fd
@@ -669,57 +689,57 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 10.
+(Font)              scaled to size 12.0pt on input line 19.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
+\l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box51
 ) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 19.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
-0.
+9.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen148
+\scratchcounter=\count283
+\scratchdimen=\dimen156
 \scratchbox=\box52
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen149
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks23
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen157
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks24
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -731,15 +751,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \Upsilon on input line 10.
-LaTeX Info: Redefining \Omega on input line 10.
-LaTeX Info: Redefining \alpha on input line 10.
-LaTeX Info: Redefining \epsilon on input line 10.
-LaTeX Info: Redefining \eta on input line 10.
-LaTeX Info: Redefining \iota on input line 10.
-LaTeX Info: Redefining \rho on input line 10.
-LaTeX Info: Redefining \upsilon on input line 10.
-LaTeX Info: Redefining \omega on input line 10.
+LaTeX Info: Redefining \Upsilon on input line 19.
+LaTeX Info: Redefining \Omega on input line 19.
+LaTeX Info: Redefining \alpha on input line 19.
+LaTeX Info: Redefining \epsilon on input line 19.
+LaTeX Info: Redefining \eta on input line 19.
+LaTeX Info: Redefining \iota on input line 19.
+LaTeX Info: Redefining \rho on input line 19.
+LaTeX Info: Redefining \upsilon on input line 19.
+LaTeX Info: Redefining \omega on input line 19.
    defining Unicode char U+0393 (decimal 915)
    defining Unicode char U+0394 (decimal 916)
    defining Unicode char U+0398 (decimal 920)
@@ -781,34 +801,69 @@ LaTeX Info: Redefining \omega on input line 10.
    defining Unicode char U+03DD (decimal 989)
    defining Unicode char U+03F1 (decimal 1009)
    defining Unicode char U+03F5 (decimal 1013)
-\c@mv@tabular=\count286
-\c@mv@boldtabular=\count287
-Package hyperref Info: Link coloring OFF on input line 10.
+\c@mv@tabular=\count289
+\c@mv@boldtabular=\count290
+Package hyperref Info: Link coloring OFF on input line 19.
  (document.out) (document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
-<aueb_logo.jpg, id=15, 502.87875pt x 268.00125pt>
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=708.24513pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-65.90756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<aueb_logo.jpg, id=11, 502.87875pt x 268.00125pt>
 File: aueb_logo.jpg Graphic file (type jpg)
 <use aueb_logo.jpg>
-Package pdftex.def Info: aueb_logo.jpg  used on input line 14.
-(pdftex.def)             Requested size: 276.00105pt x 147.09033pt.
+Package pdftex.def Info: aueb_logo.jpg  used on input line 23.
+(pdftex.def)             Requested size: 433.62166pt x 231.08997pt.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 16.
+(Font)              scaled to size 24.88pt on input line 25.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 16.
+(Font)              scaled to size 24.88pt on input line 25.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 18.
+(Font)              scaled to size 17.28pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 18.
- [1
+(Font)              scaled to size 17.28pt on input line 27.
+[1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/
 AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Use
 rs/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
 } <./aueb_logo.jpg>]
 LaTeX Font Info:    Trying to load font information for LGR+LinuxLibertineT-TLF
- on input line 24.
+ on input line 33.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertinegc\lgrlinuxlibe
 rtinet-tlf.fd
@@ -816,12 +871,12 @@ File: LGRLinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine LGR
 )
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 17.28pt on input line 33.
  (document.toc
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 2.
+(Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 2.
+(Font)              scaled to size 12.0pt on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `document.toc'.
@@ -831,40 +886,33 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 	\newpage
+l.35 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}]
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 29.
-
-Overfull \hbox (10.121pt too wide) in paragraph at lines 29--31
-\LGR/LinuxLibertineT-TLF/m/n/10 parag-wg†c b–n-teo\OT1/LinuxLibertineT-TLF/m/n/
-10 . \LGR/LinuxLibertineT-TLF/m/n/10 Kàje qr†sthc mpore– na dhmiourg†-sei log-a
--ri-asmÏ kai na anebàzei
- []
-
-[2] (document.aux)
+(Font)              scaled to size 12.0pt on input line 38.
+ [2] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 97FD935CC082880BB0C76940CF73AE29;566.
+(rerunfilecheck)             Checksum: 87FB9C60FF44B8CC0D22BF1410ADA0F4;262.
  ) 
 Here is how much of TeX's memory you used:
- 13295 strings out of 474485
- 226807 string characters out of 5744206
+ 13781 strings out of 474485
+ 234436 string characters out of 5744206
  1927528 words of memory out of 5000000
- 35407 multiletter control sequences out of 15000+600000
- 570908 words of font info for 50 fonts, out of 8000000 for 9000
+ 35885 multiletter control sequences out of 15000+600000
+ 571206 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1059b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1440b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (3 pages, 211691 bytes).
+Output written on document.pdf (3 pages, 209569 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
