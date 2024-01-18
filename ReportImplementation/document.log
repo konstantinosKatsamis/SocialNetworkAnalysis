@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  16 JAN 2024 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  18 JAN 2024 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,8 +680,46 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks22
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks23
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2023/10/27 v2.16 TOC entries
+\ttl@leftsep=\dimen161
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
- on input line 19.
+ on input line 39.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxlibert
 inet-tlf.fd
@@ -689,57 +727,57 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 19.
+(Font)              scaled to size 12.0pt on input line 39.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
-\l__pdf_internal_box=\box51
+\l__pdf_internal_box=\box52
 ) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 39.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 3
 9.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
-\scratchdimen=\dimen156
-\scratchbox=\box52
+\scratchdimen=\dimen162
+\scratchbox=\box53
 \nofMPsegments=\count284
 \nofMParguments=\count285
-\everyMPshowfont=\toks23
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count286
-\MPscratchDim=\dimen157
+\MPscratchDim=\dimen163
 \MPnumerator=\count287
 \makeMPintoPDFobject=\count288
-\everyMPtoPDFconversion=\toks24
+\everyMPtoPDFconversion=\toks25
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -751,15 +789,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \Upsilon on input line 19.
-LaTeX Info: Redefining \Omega on input line 19.
-LaTeX Info: Redefining \alpha on input line 19.
-LaTeX Info: Redefining \epsilon on input line 19.
-LaTeX Info: Redefining \eta on input line 19.
-LaTeX Info: Redefining \iota on input line 19.
-LaTeX Info: Redefining \rho on input line 19.
-LaTeX Info: Redefining \upsilon on input line 19.
-LaTeX Info: Redefining \omega on input line 19.
+LaTeX Info: Redefining \Upsilon on input line 39.
+LaTeX Info: Redefining \Omega on input line 39.
+LaTeX Info: Redefining \alpha on input line 39.
+LaTeX Info: Redefining \epsilon on input line 39.
+LaTeX Info: Redefining \eta on input line 39.
+LaTeX Info: Redefining \iota on input line 39.
+LaTeX Info: Redefining \rho on input line 39.
+LaTeX Info: Redefining \upsilon on input line 39.
+LaTeX Info: Redefining \omega on input line 39.
    defining Unicode char U+0393 (decimal 915)
    defining Unicode char U+0394 (decimal 916)
    defining Unicode char U+0398 (decimal 920)
@@ -803,7 +841,7 @@ LaTeX Info: Redefining \omega on input line 19.
    defining Unicode char U+03F5 (decimal 1013)
 \c@mv@tabular=\count289
 \c@mv@boldtabular=\count290
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring ON on input line 39.
  (document.out) (document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
@@ -846,16 +884,16 @@ Package hyperref Info: Link coloring OFF on input line 19.
 <aueb_logo.jpg, id=11, 502.87875pt x 268.00125pt>
 File: aueb_logo.jpg Graphic file (type jpg)
 <use aueb_logo.jpg>
-Package pdftex.def Info: aueb_logo.jpg  used on input line 23.
+Package pdftex.def Info: aueb_logo.jpg  used on input line 43.
 (pdftex.def)             Requested size: 433.62166pt x 231.08997pt.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 25.
+(Font)              scaled to size 24.88pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 25.
+(Font)              scaled to size 24.88pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 27.
+(Font)              scaled to size 17.28pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 27.
+(Font)              scaled to size 17.28pt on input line 47.
 [1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/
@@ -863,7 +901,7 @@ AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Use
 rs/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
 } <./aueb_logo.jpg>]
 LaTeX Font Info:    Trying to load font information for LGR+LinuxLibertineT-TLF
- on input line 33.
+ on input line 53.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertinegc\lgrlinuxlibe
 rtinet-tlf.fd
@@ -871,11 +909,9 @@ File: LGRLinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine LGR
 )
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 33.
+(Font)              scaled to size 17.28pt on input line 53.
  (document.toc
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 2.
-LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
+LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 )
 \tf@toc=\write4
@@ -886,12 +922,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 	\newpage
+l.55 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
-ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}]
-LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 38.
- [2] (document.aux)
+ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}] [2] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -900,19 +933,19 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 87FB9C60FF44B8CC0D22BF1410ADA0F4;262.
  ) 
 Here is how much of TeX's memory you used:
- 13781 strings out of 474485
- 234436 string characters out of 5744206
- 1927528 words of memory out of 5000000
- 35885 multiletter control sequences out of 15000+600000
- 571206 words of font info for 51 fonts, out of 8000000 for 9000
+ 14715 strings out of 474485
+ 248270 string characters out of 5744206
+ 1929528 words of memory out of 5000000
+ 36801 multiletter control sequences out of 15000+600000
+ 568521 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1440b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1655b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (3 pages, 209569 bytes).
+Output written on document.pdf (3 pages, 216490 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
+ 52 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
  22 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,14 +6,34 @@
 \usepackage{libertine}
 %\usepackage{fancyhdr}
 \usepackage[hidelinks]{hyperref}  % For hyperlinks without borders
+\usepackage{hyperref}
 
 \usepackage{geometry}
+
+\usepackage{xcolor}
+
+\usepackage{setspace}
+\setstretch{1.5}  % Adjust the line spacing factor
+
+\usepackage{titlesec}
+\usepackage{titletoc}
+% Adjust the space above and below \section titles
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}[\vspace{1ex}]
+% Adjust the space between sections in the table of contents
+\titlecontents{section}[0em]{\vspace{1ex}}{\thecontentslabel\hspace{1em}}{}{\titlerule*[1pc]{.}\contentspage}
+
 
 \geometry{
 	left=0.5in,   % left margin
 	right=0.5in,  % right margin
 	top=0.6in,    % top margin
 	bottom=0.6in  % bottom margin
+}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,  % set the color for internal links
+	urlcolor=blue    % set the color for external links
 }
 
 \begin{document}
@@ -35,12 +55,19 @@
 	\newpage  % Start content on a new page
 	
 	\section{Εισαγωγή}
-	Το Youtube είναι ένας ιστότοπος κοινοποίησης, αποθήκευσης, αναζήτησης και αναπαραγωγής βίντεο. Κάθε χρήστης μπορεί να δημιουργήσει λογαριασμό και να ανεβάζει τα δικά του βίντεο ή ακόμα και να αναπαράγει σε πραγματικό χρόνο. Εκτός από τους χρήστες, πρόσβαση έχει ο οποιοσδήποτε στον ιστότοπο αυτό όπου μπορεί μόνο να παρακολουθεί τα βίντεο άλλων χρηστών. Το προφίλ του χρήστη παρουσιάζεται ως κανάλι όπου άλλοι χρήστες μπορούν να εγγραφούν ώστε να παρακολουθούν και να ενημερώνονται για βίντεο ή για πραγματικού χρόνου αναπαραγωγές που τους ενδιαφέρουν. Στη παρούσα ανάλυση, καλούμαστε να αναλύσουμε το κανάλι Discovery. Οι τομείς γύρω από τους οποίους στρέφεται το κανάλι αυτό είναι η επιστήμη, η φυσική ιστορία, η ανθρωπολογία, η επιβίωση η γεωγραφία και η μηχανική.
+	Το Youtube είναι ένας ιστότοπος κοινοποίησης, αποθήκευσης, αναζήτησης και αναπαραγωγής βίντεο. Κάθε χρήστης μπορεί να δημιουργήσει λογαριασμό και να ανεβάζει τα δικά του βίντεο ή ακόμα και να αναπαράγει σε πραγματικό χρόνο. Εκτός από τους χρήστες, πρόσβαση έχει ο οποιοσδήποτε στον ιστότοπο αυτό όπου μπορεί μόνο να παρακολουθεί τα βίντεο άλλων χρηστών. Το προφίλ του χρήστη παρουσιάζεται ως κανάλι όπου άλλοι χρήστες μπορούν να εγγραφούν ώστε να παρακολουθούν και να ενημερώνονται για βίντεο ή για πραγματικού χρόνου αναπαραγωγές που τους ενδιαφέρουν. Τα βίντεο που ανεβάζει ο κάθε χρήστης είναι συνηθως αποθηκευμένα σε playlists αναλόγως με την μορφή και το θέμα που έχουν. Στη παρούσα ανάλυση, καλούμαστε να αναλύσουμε το κανάλι Discovery. Οι τομείς γύρω από τους οποίους στρέφεται το κανάλι αυτό είναι η επιστήμη, η φυσική ιστορία, η ανθρωπολογία, η επιβίωση η γεωγραφία και η μηχανική.
+	
+	(prepei kapos na anaferw j ta Featured chanels gia na mpw siga siga sto nohma tou tutorial pou eksigi ti en ta Featured j na tou pw j gw gt epiaa jina ta dedomena simfona me thn akfonisi ths ergasias j me to ti mou parexei to youtube chanel tool pou xrisimopoihsa
+	- naksanadw dld to simio 21:00-30:00(en dame pou lalei gia to network chanel) tou vid https://www.youtube.com/watch?v=TmF4mWZYnbk gia na katalavw ti paizei)
+	
+	(enna VALW TO TIK sto tetragonaki tou tool gia na ferei j ta subcribed channels. dikeologia enna akousw pou to vid tou - na dw j ta data pou fernei th diafora exoun)
+	
+	(NBC)
 	\label{chap:intro}  % Add a label to refer to this section
 	
 	\section{Λήψη δεδομένων}
-	Τα δεδομενα για αυτη την ανάλυση τα πήραμε με τη χρήση του Bernhard Reiner's Tool.
-	Please visit \href{https://www.example.com}{this website}.
+	Τα δεδομενα για αυτη την ανάλυση τα πήραμε με τη χρήση του \href{https://labs.polsys.net}{Bernhard Reiner's Tool} χρησιμοποιόντας τα YouTube Data Tools. Αρχικά, 
+	%grafw: epira ta data pou to siggekrimeno site, evala to link jame epiaa to id j me to id epiasa ta dedomena meso enos arxeiou tade. aniksa to arxio meso tou gephi j ekama elegxo twn dedomenwn(na pw an ekatharisa ta ded mou j an ekama elegxo gia diplotipa klp?)
 	\label{chap:data_fetching}  % Add a label to refer to this section
 	
 \end{document}
