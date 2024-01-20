@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -955,24 +955,27 @@ been already used, duplicate ignored
 l.62 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}] [2]
-<photos/first_painting.jpg, id=47, 606.01407pt x 536.0025pt>
-File: photos/first_painting.jpg Graphic file (type jpg)
-<use photos/first_painting.jpg>
-Package pdftex.def Info: photos/first_painting.jpg  used on input line 76.
+<photos/section3/first_painting.jpg, id=47, 606.01407pt x 536.0025pt>
+File: photos/section3/first_painting.jpg Graphic file (type jpg)
+<use photos/section3/first_painting.jpg>
+Package pdftex.def Info: photos/section3/first_painting.jpg  used on input line
+ 76.
 (pdftex.def)             Requested size: 379.41585pt x 335.5896pt.
- [3 <./photos/first_painting.jpg>]
-<photos/second_painting.jpg, id=52, 912.40875pt x 639.89063pt>
-File: photos/second_painting.jpg Graphic file (type jpg)
-<use photos/second_painting.jpg>
-Package pdftex.def Info: photos/second_painting.jpg  used on input line 82.
+ [3 <./photos/section3/first_painting.jpg>]
+<photos/section3/second_painting.jpg, id=52, 912.40875pt x 639.89063pt>
+File: photos/section3/second_painting.jpg Graphic file (type jpg)
+<use photos/section3/second_painting.jpg>
+Package pdftex.def Info: photos/section3/second_painting.jpg  used on input lin
+e 82.
 (pdftex.def)             Requested size: 433.62166pt x 304.10742pt.
- [4 <./photos/second_painting.jpg>]
-<photos/third_painting.jpg, id=57, 673.01437pt x 645.16031pt>
-File: photos/third_painting.jpg Graphic file (type jpg)
-<use photos/third_painting.jpg>
-Package pdftex.def Info: photos/third_painting.jpg  used on input line 89.
+ [4 <./photos/section3/second_painting.jpg>]
+<photos/section3/third_painting.jpg, id=57, 673.01437pt x 645.16031pt>
+File: photos/section3/third_painting.jpg Graphic file (type jpg)
+<use photos/section3/third_painting.jpg>
+Package pdftex.def Info: photos/section3/third_painting.jpg  used on input line
+ 89.
 (pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
- [5 <./photos/third_painting.jpg>]
+ [5 <./photos/section3/third_painting.jpg>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
@@ -987,7 +990,7 @@ Package rerunfilecheck Info: File `document.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  16140 strings out of 474485
- 275960 string characters out of 5744206
+ 276149 string characters out of 5744206
  1931528 words of memory out of 5000000
  38210 multiletter control sequences out of 15000+600000
  568521 words of font info for 48 fonts, out of 8000000 for 9000
