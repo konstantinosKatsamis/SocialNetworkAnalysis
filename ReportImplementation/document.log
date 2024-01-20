@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 21:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 22:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -955,29 +955,29 @@ been already used, duplicate ignored
 l.62 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}] [2]
-<photos/section3_xorisParametropoihsh.jpg, id=47, 606.01407pt x 536.0025pt>
-File: photos/section3_xorisParametropoihsh.jpg Graphic file (type jpg)
-<use photos/section3_xorisParametropoihsh.jpg>
-Package pdftex.def Info: photos/section3_xorisParametropoihsh.jpg  used on inpu
-t line 76.
-(pdftex.def)             Requested size: 379.41585pt x 335.5896pt.
- [3 <./photos/section3_xorisParametropoihsh.jpg>]
-<photos/first_painting.jpg, id=52, 912.40875pt x 639.89063pt>
+<photos/first_painting.jpg, id=47, 606.01407pt x 536.0025pt>
 File: photos/first_painting.jpg Graphic file (type jpg)
 <use photos/first_painting.jpg>
-Package pdftex.def Info: photos/first_painting.jpg  used on input line 88.
+Package pdftex.def Info: photos/first_painting.jpg  used on input line 76.
+(pdftex.def)             Requested size: 379.41585pt x 335.5896pt.
+ [3 <./photos/first_painting.jpg>]
+<photos/second_painting.jpg, id=52, 912.40875pt x 639.89063pt>
+File: photos/second_painting.jpg Graphic file (type jpg)
+<use photos/second_painting.jpg>
+Package pdftex.def Info: photos/second_painting.jpg  used on input line 82.
 (pdftex.def)             Requested size: 433.62166pt x 304.10742pt.
-<photos/third_painting.jpg, id=53, 673.01437pt x 645.16031pt>
+ [4 <./photos/second_painting.jpg>]
+<photos/third_painting.jpg, id=57, 673.01437pt x 645.16031pt>
 File: photos/third_painting.jpg Graphic file (type jpg)
 <use photos/third_painting.jpg>
-Package pdftex.def Info: photos/third_painting.jpg  used on input line 109.
+Package pdftex.def Info: photos/third_painting.jpg  used on input line 89.
 (pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
- [4 <./photos/first_painting.jpg>]
+ [5 <./photos/third_painting.jpg>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-[5 <./photos/third_painting.jpg>] (document.aux)
+[6] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -986,19 +986,19 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 73A08DACC2EAE3FA409054B1D01AB1B7;756.
  ) 
 Here is how much of TeX's memory you used:
- 16138 strings out of 474485
- 276042 string characters out of 5744206
+ 16140 strings out of 474485
+ 275960 string characters out of 5744206
  1931528 words of memory out of 5000000
- 38209 multiletter control sequences out of 15000+600000
+ 38210 multiletter control sequences out of 15000+600000
  568521 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (6 pages, 782438 bytes).
+Output written on document.pdf (7 pages, 778137 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

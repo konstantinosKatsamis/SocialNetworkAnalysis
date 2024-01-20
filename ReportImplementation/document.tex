@@ -71,44 +71,24 @@
 	
 	
 	\section{Γραφική Αναπαράσταση Δικτύου}
-	Το δίκτυο μόνο με τα ονόματα των κόμβων(καναλιών) χωρίς κάποια παραμετροποίηση χρωμάτων ή διάταξης.
+	Το δίκτυο μόνο με τα ονόματα των κόμβων(καναλιών) χωρίς κάποια παραμετροποίηση.
 		\begin{center}
-			\includegraphics[width=0.7\textwidth]{photos/section3_xorisParametropoihsh.jpg}
+			\includegraphics[width=0.7\textwidth]{photos/first_painting.jpg}
 		\end{center}
 	\vspace{215pt}
 	
-	Στο σημείο αυτό μπορούμε μέσω του Gephi να βαλούμε χρώμα στους κόμους του δικτύου μας ανάλογα με ορισμένες ιδιότητες που έχει το δίκτυο μας.
-	
-	1) allah tou size me vash ton arithmo twn subs
-	
-	2) allagh tou xromatos enoos komvou me vash to viewcout
-	
-	episis, sto layout eetreksa to force atlas 2 gia na organoso kalitera tous komvous(google ti kamnei to force atlas 2 gia na peis to gt to etrekses) j meta etreksa to label adjust gia na men en to ena label panw sto allo
+	Επίσης μέσω του Gephi μπορούμε να θέσουμε διάφορες παραμέτρους όσον αφορά τoν χρωμaτισμό και την διάταξη ανάλογα με ορισμένες ιδιότητες που έχει το δίκτυο μας. Για παράδειγμα, για τη μορφή των κόμβων θέσαμε το μέγεθος του κάθε κόμβου ανάλογα με το πλήθος των εγγραφών(subscribercount) που έχει το κανάλι που αντιπροσοπεύει και για τον χρωματισμό θέσαμε ασπρο-πορτοκαλι-κοκκινο στο χαρακτηριστικο των προβολών(viewcount(100s)). Για την διάταξη, τρέξαμε τον Atlas Force 2 για να αραιώσουμε τον γράφο μας και τον Label Adjust για να διαχωριστουν οι ετικέτες ονομάτων των κόμβων. Έτσι προέκυψε η πάρακάτω εικόνα:
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{photos/first_painting.jpg}
+			\includegraphics[width=0.8\textwidth]{photos/second_painting.jpg}
 		\end{center}
-	opos vlepoumai paizei rolo o arithmos twn subs me ton arithmo twn views. afto mas dixnei poso megallo einai ena kanali pragma anamenomeno gia to youtube
-	\vspace{50pt}
+	Απο την εικόνα αυτή, τα δεδομένα που λαμβάνουμε είνα ο αριθμός των εγγραφών σε ενα κανάλι παίζει αρκετό ρόλο με τις προβολές που μπορεί να εχει, πραγμα αναμενόμενο για τον ιστότοπο που συζητάμε.
+	\vspace{188pt}
 	
-	
-	
-	
-	
-	
-	
-	
-	ALLASSW DED J PIANNW KAINOURGIO SCREENSHOT
-	
-	paratirontas to data set mas apou to data laboratory tou gephi, paratiroume na iparxoun διάφορα κανάλια απο διάφορες χώρες. epomenos theorisame endiaferon na kanoume mia parametropihsh opos pio panw, mono pou afth th fora epileksame
-	
-	1) seedrank(megethos = ranking)
-	
-	2) country(xroma = partition)
-	sth sineia meso tou plug in circular layout pou to katevasame meso tou gephi. sth sinexia mesw twn circle properties thesame to "Order Nodes By" thn xwra. Epita treksame to Label Adjust layout gia na areosi to diktio mas k na fainontai oi etiketes twn komvwn
+	Βλέποντας τα δεδομένα του δικτύου μας απο το Data Laboratory του Gephi, παρατηρήσαμε πως υπάρχουν κανάλια απο διάφορες χώρες. Επομένως θεωρήσαμε ενδιαφέρον να κάνουμε μία παραμετροποίηση με τις χώρες ως εξής. Ο χρωματισμός έγινε μέσω διφορετικών χρωματων, τοσων, όσος και ο αριθμός των κόμβων μέσω του partition tab. Στο σημείο αυτο, θεώρήσαμε επίσης σημαντικό και την αναφορά του seed. Αυτό έγινε μεσω του μεγέθους των κόμβων μέσω του Ranking(αντίστοιχη μεταβλητη με την isseed εαν χρησιμοποιούσαμε τον χρωματισμό). Στη συνέχεια μέσω του Plugin Circular Layout που κατεβάσαμε μέσω των Tools του Gephi, δημιουργήσαμε την πιο κάτω διάταξη θέτοντας στην ιδιότητα "Order Nodes By" την χώρα. Για άλλη μια φορά, χρησιμοποιήσαμε τον Label Adjust για διαχωρισμό των ετοικετών.
 		\begin{center}
 			\includegraphics[width=0.8\textwidth]{photos/third_painting.jpg}
 		\end{center}
-	etsi apo ta pio panw mporoume efkola na katalavoumai pws sto diktio mas paizi rolo h xora??
+	Απο την πιο πάνω εικόνα μπορούμε εύκολα να παρατηρήσουμε πως ο κεντρικός και ισως ο πιο σηαντικος κόμβος να είναι ο "Samsung" ο οποίος είναι με πράσινο χρώμα. Οι δύο δεξιές θέσεις απο αυτο το κόμβο είναι επίσης με πράσινο χρώμα αφού και αυτοι οι κόμβοι είναι κανάλια απο την ίδια χώρα, την Νότιο Κορέα.
 	\label{chap:graphical_representation_3}
 	
 	
