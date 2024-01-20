@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,7 +915,7 @@ Package caption Info: End \AtBeginDocument code.
 File: photos/aueb_logo.jpg Graphic file (type jpg)
 <use photos/aueb_logo.jpg>
 Package pdftex.def Info: photos/aueb_logo.jpg  used on input line 50.
-(pdftex.def)             Requested size: 433.62166pt x 231.08997pt.
+(pdftex.def)             Requested size: 271.0125pt x 144.43225pt.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 52.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
@@ -967,12 +967,17 @@ File: photos/first_painting.jpg Graphic file (type jpg)
 <use photos/first_painting.jpg>
 Package pdftex.def Info: photos/first_painting.jpg  used on input line 88.
 (pdftex.def)             Requested size: 433.62166pt x 304.10742pt.
+<photos/third_painting.jpg, id=53, 673.01437pt x 645.16031pt>
+File: photos/third_painting.jpg Graphic file (type jpg)
+<use photos/third_painting.jpg>
+Package pdftex.def Info: photos/third_painting.jpg  used on input line 109.
+(pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
  [4 <./photos/first_painting.jpg>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-[5] (document.aux)
+[5 <./photos/third_painting.jpg>] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -981,19 +986,19 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 73A08DACC2EAE3FA409054B1D01AB1B7;756.
  ) 
 Here is how much of TeX's memory you used:
- 16131 strings out of 474485
- 275819 string characters out of 5744206
+ 16138 strings out of 474485
+ 276042 string characters out of 5744206
  1931528 words of memory out of 5000000
- 38202 multiletter control sequences out of 15000+600000
+ 38209 multiletter control sequences out of 15000+600000
  568521 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (6 pages, 546853 bytes).
+Output written on document.pdf (6 pages, 782438 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
