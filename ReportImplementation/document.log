@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  20 JAN 2024 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  21 JAN 2024 02:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,11 +976,32 @@ Package pdftex.def Info: photos/section3/third_painting.jpg  used on input line
  89.
 (pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
  [5 <./photos/section3/third_painting.jpg>]
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
+ on input line 98.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linuxlibert
+inet-tlf.fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 98.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 98.
+LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 98.
+<photos/section4/ate.JPG, id=62, 338.76563pt x 118.19156pt>
+File: photos/section4/ate.JPG Graphic file (type jpg)
+<use photos/section4/ate.JPG>
+Package pdftex.def Info: photos/section4/ate.JPG  used on input line 102.
+(pdftex.def)             Requested size: 433.62166pt x 151.29189pt.
+
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-[6] (document.aux)
+[6{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_n
+aooyc.enc} <./photos/section4/ate.JPG>] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -989,19 +1010,19 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 73A08DACC2EAE3FA409054B1D01AB1B7;756.
  ) 
 Here is how much of TeX's memory you used:
- 16140 strings out of 474485
- 276149 string characters out of 5744206
+ 16183 strings out of 474485
+ 277482 string characters out of 5744206
  1931528 words of memory out of 5000000
- 38210 multiletter control sequences out of 15000+600000
- 568521 words of font info for 48 fonts, out of 8000000 for 9000
+ 38246 multiletter control sequences out of 15000+600000
+ 571909 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (7 pages, 778137 bytes).
+Output written on document.pdf (7 pages, 791472 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
