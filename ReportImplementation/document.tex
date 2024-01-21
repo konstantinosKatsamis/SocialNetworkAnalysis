@@ -47,7 +47,7 @@
 	
 	\begin{titlepage}
 		\centering
-		\includegraphics[width=0.5\textwidth]{photos/aueb_logo.jpg}
+		\includegraphics[width=0.5\textwidth]{photos-files/aueb_logo.jpg}
 		\vfill
 		\Huge\textbf{THKEVASE KSANA EKFONISI GIA TO TI ZHTA}
 		\vspace{1cm}
@@ -73,20 +73,20 @@
 	\section{Γραφική Αναπαράσταση Δικτύου}
 	Το δίκτυο μόνο με τα ονόματα των κόμβων(καναλιών) χωρίς κάποια παραμετροποίηση.
 		\begin{center}
-			\includegraphics[width=0.7\textwidth]{photos/section3/first_painting.jpg}
+			\includegraphics[width=0.7\textwidth]{photos-files/section3/first_painting.jpg}
 		\end{center}
 	\newpage
 	
 	Επίσης μέσω του Gephi μπορούμε να θέσουμε διάφορες παραμέτρους όσον αφορά τoν χρωμaτισμό και την διάταξη ανάλογα με ορισμένες ιδιότητες που έχει το δίκτυο μας. Για παράδειγμα, για τη μορφή των κόμβων θέσαμε το μέγεθος του κάθε κόμβου ανάλογα με το πλήθος των εγγραφών(subscribercount) που έχει το κανάλι που αντιπροσοπεύει και για τον χρωματισμό θέσαμε ασπρο-πορτοκαλι-κοκκινο στο χαρακτηριστικο των προβολών(viewcount(100s)). Για την διάταξη, τρέξαμε τον Atlas Force 2 για να αραιώσουμε τον γράφο μας και τον Label Adjust για να διαχωριστουν οι ετικέτες ονομάτων των κόμβων. Έτσι προέκυψε η πάρακάτω εικόνα:
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{photos/section3/second_painting.jpg}
+			\includegraphics[width=0.8\textwidth]{photos-files/section3/second_painting.jpg}
 		\end{center}
 	Απο την εικόνα αυτή, τα δεδομένα που λαμβάνουμε είνα ο αριθμός των εγγραφών σε ενα κανάλι παίζει αρκετό ρόλο με τις προβολές που μπορεί να εχει, πραγμα αναμενόμενο για τον ιστότοπο που συζητάμε.
 	\newpage
 	
-	Βλέποντας τα δεδομένα του δικτύου μας απο το Data Laboratory του Gephi, παρατηρήσαμε πως υπάρχουν κανάλια απο διάφορες χώρες. Επομένως θεωρήσαμε ενδιαφέρον να κάνουμε μία παραμετροποίηση με τις χώρες ως εξής. Ο χρωματισμός έγινε μέσω διφορετικών χρωματων, τοσων, όσος και ο αριθμός των διαφορετικών χωρών, μέσω του partition tab. Στο σημείο αυτο, θεώρήσαμε επίσης σημαντικό και την αναφορά του seed. Αυτό έγινε μεσω του μεγέθους των κόμβων μέσω του Ranking(αντίστοιχη μεταβλητη με την isseed εαν χρησιμοποιούσαμε τον χρωματισμό). Στη συνέχεια μέσω του Plugin Circular Layout που κατεβάσαμε μέσω των Tools του Gephi, δημιουργήσαμε την πιο κάτω διάταξη θέτοντας στην ιδιότητα "Order Nodes By" την χώρα. Για άλλη μια φορά, χρησιμοποιήσαμε τον Label Adjust για διαχωρισμό των ετοικετών.
+	Βλέποντας τα δεδομένα του δικτύου μας απο το Data Laboratory του Gephi, παρατηρήσαμε πως υπάρχουν κανάλια απο διάφορες χώρες. Επομένως θεωρήσαμε ενδιαφέρον να κάνουμε μία παραμετροποίηση με τις χώρες ως εξής. Ο χρωματισμός έγινε μέσω διφορετικών χρωματων, τοσων, όσος και ο αριθμός των διαφορετικών χωρών, μέσω του partition tab. Στο σημείο αυτο, θεώρήσαμε επίσης σημαντικό και την αναφορά του seed. Αυτό έγινε μεσω του μεγέθους των κόμβων μέσω του seedrank(αντίστοιχη μεταβλητη με την isseed εαν χρησιμοποιούσαμε τον χρωματισμό). Στη συνέχεια μέσω του Plugin Circular Layout που κατεβάσαμε μέσω των Tools του Gephi, δημιουργήσαμε την πιο κάτω διάταξη θέτοντας στην ιδιότητα "Order Nodes By" την χώρα. Για άλλη μια φορά, χρησιμοποιήσαμε τον Label Adjust για διαχωρισμό των ετοικετών.
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{photos/section3/third_painting.jpg}
+			\includegraphics[width=0.8\textwidth]{photos-files/section3/third_painting.jpg}
 		\end{center}
 	Απο την πιο πάνω εικόνα μπορούμε εύκολα να παρατηρήσουμε πως ο κεντρικός και ισως ο πιο σηαντικος κόμβος να είναι ο "Samsung" ο οποίος είναι με πράσινο χρώμα. Οι δύο δεξιές θέσεις απο αυτο το κόμβο είναι επίσης με πράσινο χρώμα αφού και αυτοι οι κόμβοι είναι κανάλια απο την ίδια χώρα, την Νότιο Κορέα.
 	\label{chap:graphical_representation_3}
@@ -95,26 +95,45 @@
 	\section{Βασικά στοιχεία Δικτύου}
 	Το δίκτυο που μελετάμε έχει τα εξής βασικά στοιχεία:
 	\begin{itemize}
-		\item Αριθμός κόμβων: \textbf{79} διαφορετικά \textbf{κανάλια-κόμβοι}
+		\item Αριθμός κόμβων: \textbf{76} διαφορετικά \textbf{κανάλια-κόμβοι}
 		\item Αριθμός ακμών: \textbf{149 συνδέσμοι} μέσω των οποίων συνδέονται τα κανάλια-κόμβοι
 		\item Ο γράφος μας είναι \textbf{κατευθυνόμενος}. Δηλαδή κάθε σύνδεσμος απο ενα κανάλι προς ενα άλλο εχει κατέυθυνση όπως φαινεται στην πιο κάτω εικόνα:
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{photos/section4/ate.JPG}
+			\includegraphics[width=0.8\textwidth]{photos-files/section4/ate.JPG}
 			
 			Ο πράσινος κόμβος-κανάλι έχει ως featured channel τον κόμβο-κανάλι με ροζ χρώμα.
 		\end{center}
 		\item Διάμετρος δικτύου: Η \textbf{διάμετρος} ενός δικτύου είναι η μακρύτερη συντομότερη διαδρομή που μπορούμε να βρούμε. Στην περίπτωσή μας είναι \textbf{3}. Τιμή αναμενόμενη λόγω του depth με τιμή 2 που επιλέξαμε.
 		\item \textbf{Average path length}: Είναι ο \textbf{μέσος όρος των συντομότερων μονοπατιών} για όλα τα ζεύγη κόμβων. Στο δίκτυο μας είναι \textbf{1.9760}.
 		\begin{center}
-			\includegraphics[width=0.4\textwidth]{photos/section4/graph_distance_report.JPG}
+			\includegraphics[width=0.4\textwidth]{photos-files/section4/graph_distance_report.JPG}
 		\end{center}
 	\end{itemize}
-	\label{chap:network_asics_4}
+	\label{chap:basic_network_elements_4}
 	
 	
 	\newpage
 	\section{Component Measures}
+	Στο δίκτυο μας, όλοι οι κόμβοι είναι συνδεδεμένοι μεταξύ τους(έμμεσα είτε άμεσα). Άρα μπορούμε να πούμε πως υπάρχει \textbf{ένα giant component}. Επομένως ο αριθμός των \textbf{weakly connected components} είναι ίσος με \textbf{1}. \par 
+	Αναφορίκα με τον αριθμό των \textbf{strongly connected components}, αυτό που πρέπει να δούμε στην περίπτωση μας είναι αν υπάρχουν κανάλια-κόμβοι τα οποία δεν έχουν Featured Channels, δηλαδή δεν έχουν εξερχόμενους συνδέσμους. Έτσι μέσω του Connected Components tool απο το πεδίο Statistics του Gephi έχουμε την ακόλουθη αναφορά.
+	\par
+	\begin{center}
+		\includegraphics[width=0.4\textwidth]{photos-files/section5/connected_components_report.JPG}
+	\end{center}
+	\par
+	Παρατηρόντας την πιο πάνω είκονα λοιπόν, μπορούμε να επιβεβαιώσουμε τον αριθμό των weakly connected components. Όσον αφορά τον αριθμό των strongly connected components μεσω του Gephi βλέπουμε πως είναι \textbf{57}. Στο σημείο αυτο μπορούμε να εφαρμόσουμε μια διάταξη για να δούμε σχηματικά αυτους τους κόμβους ώστε να καταλάβουμε καλύτερα τι σημβαίνει. Χρησιμοποιόντας λοιπόν τον αλγόριθμο Dual Circle Layout, με Upper Order Count ίσο με 20(Πλήθος κόμβων - strong connected components + weakly connected components) με σκοπό να πάρουμε στον εξωτερικό κύκλο τα κανάλια που δεν έχουν Featured Channels(20 κανάλια, 20 διαφορετικά χρώματα). Έτσι όπως φαίνεται και πιο κάτω, στον εξωτερικό κύκλο, τα κανάλια αυτά έχουν ακμές που φτάνουν σε αυτά και κανένα δεν έχει ακμή που να ξεκινάει απο αυτά.
+	\begin{center}
+		\includegraphics[width=0.8\textwidth]{photos-files/section5/section5_photo1.JPG}
+	\end{center}
+	Να σημειωθεί οτι κρατήσαμε διαμόρφωση των κόμβων σχετκα με το μέγεθος στην σχέση seedrank χωρις αυτο να παιζει κάποιο ρόλο, γι'αυτο και ο κόμβος Samsung έχει μεγαλύτερο μέγεθος.
+	\label{chap:component_measures_5}
 	
-	\label{chap:network_asics_4}
+	
+	\newpage
+	\section{Degree measures}
+	Degree measures, such as maximum and average node degrees, as well as
+	degree distribution.
+	\label{chap:degree_measures_6}
+	
 	
 \end{document}

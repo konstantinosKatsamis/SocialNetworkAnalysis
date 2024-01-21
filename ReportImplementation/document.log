@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  21 JAN 2024 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  21 JAN 2024 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -761,11 +761,7 @@ ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box53
-) (document.aux
-
-LaTeX Warning: Label `chap:network_asics_4' multiply defined.
-
-)
+) (document.aux)
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -785,7 +781,8 @@ LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 46.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 4
 6.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 46.
@@ -914,10 +911,10 @@ Package hyperref Info: Link coloring ON on input line 46.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<photos/aueb_logo.jpg, id=23, 502.87875pt x 268.00125pt>
-File: photos/aueb_logo.jpg Graphic file (type jpg)
-<use photos/aueb_logo.jpg>
-Package pdftex.def Info: photos/aueb_logo.jpg  used on input line 50.
+<photos-files/aueb_logo.jpg, id=27, 502.87875pt x 268.00125pt>
+File: photos-files/aueb_logo.jpg Graphic file (type jpg)
+<use photos-files/aueb_logo.jpg>
+Package pdftex.def Info: photos-files/aueb_logo.jpg  used on input line 50.
 (pdftex.def)             Requested size: 271.0125pt x 144.43225pt.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 52.
@@ -932,7 +929,7 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/
 AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Use
 rs/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
-} <./photos/aueb_logo.jpg>]
+} <./photos-files/aueb_logo.jpg>]
 LaTeX Font Info:    Trying to load font information for LGR+LinuxLibertineT-TLF
  on input line 60.
 
@@ -958,27 +955,27 @@ been already used, duplicate ignored
 l.62 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}] [2]
-<photos/section3/first_painting.jpg, id=53, 606.01407pt x 536.0025pt>
-File: photos/section3/first_painting.jpg Graphic file (type jpg)
-<use photos/section3/first_painting.jpg>
-Package pdftex.def Info: photos/section3/first_painting.jpg  used on input line
- 76.
+<photos-files/section3/first_painting.jpg, id=59, 606.01407pt x 536.0025pt>
+File: photos-files/section3/first_painting.jpg Graphic file (type jpg)
+<use photos-files/section3/first_painting.jpg>
+Package pdftex.def Info: photos-files/section3/first_painting.jpg  used on inpu
+t line 76.
 (pdftex.def)             Requested size: 379.41585pt x 335.5896pt.
- [3 <./photos/section3/first_painting.jpg>]
-<photos/section3/second_painting.jpg, id=58, 912.40875pt x 639.89063pt>
-File: photos/section3/second_painting.jpg Graphic file (type jpg)
-<use photos/section3/second_painting.jpg>
-Package pdftex.def Info: photos/section3/second_painting.jpg  used on input lin
-e 82.
+ [3 <./photos-files/section3/first_painting.jpg>]
+<photos-files/section3/second_painting.jpg, id=64, 912.40875pt x 639.89063pt>
+File: photos-files/section3/second_painting.jpg Graphic file (type jpg)
+<use photos-files/section3/second_painting.jpg>
+Package pdftex.def Info: photos-files/section3/second_painting.jpg  used on inp
+ut line 82.
 (pdftex.def)             Requested size: 433.62166pt x 304.10742pt.
- [4 <./photos/section3/second_painting.jpg>]
-<photos/section3/third_painting.jpg, id=63, 673.01437pt x 645.16031pt>
-File: photos/section3/third_painting.jpg Graphic file (type jpg)
-<use photos/section3/third_painting.jpg>
-Package pdftex.def Info: photos/section3/third_painting.jpg  used on input line
- 89.
+ [4 <./photos-files/section3/second_painting.jpg>]
+<photos-files/section3/third_painting.jpg, id=69, 673.01437pt x 645.16031pt>
+File: photos-files/section3/third_painting.jpg Graphic file (type jpg)
+<use photos-files/section3/third_painting.jpg>
+Package pdftex.def Info: photos-files/section3/third_painting.jpg  used on inpu
+t line 89.
 (pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
- [5 <./photos/section3/third_painting.jpg>]
+ [5 <./photos-files/section3/third_painting.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
  on input line 98.
 
@@ -993,50 +990,70 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 98.
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 98.
-<photos/section4/ate.JPG, id=68, 338.76563pt x 118.19156pt>
-File: photos/section4/ate.JPG Graphic file (type jpg)
-<use photos/section4/ate.JPG>
-Package pdftex.def Info: photos/section4/ate.JPG  used on input line 102.
+<photos-files/section4/ate.JPG, id=74, 338.76563pt x 118.19156pt>
+File: photos-files/section4/ate.JPG Graphic file (type jpg)
+<use photos-files/section4/ate.JPG>
+Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 102.
+
 (pdftex.def)             Requested size: 433.62166pt x 151.29189pt.
-<photos/section4/graph_distance_report.JPG, id=69, 221.32687pt x 151.3153pt>
-File: photos/section4/graph_distance_report.JPG Graphic file (type jpg)
-<use photos/section4/graph_distance_report.JPG>
-Package pdftex.def Info: photos/section4/graph_distance_report.JPG  used on inp
-ut line 109.
+<photos-files/section4/graph_distance_report.JPG, id=75, 221.32687pt x 151.3153
+pt>
+File: photos-files/section4/graph_distance_report.JPG Graphic file (type jpg)
+<use photos-files/section4/graph_distance_report.JPG>
+Package pdftex.def Info: photos-files/section4/graph_distance_report.JPG  used 
+on input line 109.
 (pdftex.def)             Requested size: 216.80669pt x 148.23256pt.
  [6{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_
-naooyc.enc} <./photos/section4/ate.JPG> <./photos/section4/graph_distance_repor
-t.JPG>]
+naooyc.enc} <./photos-files/section4/ate.JPG> <./photos-files/section4/graph_di
+stance_report.JPG>]
+Overfull \hbox (6.53285pt too wide) in paragraph at lines 118--119
+[]\LGR/LinuxLibertineT-TLF/m/n/12 AnaforÐka me ton ar-i-jmì twn \OT1/LinuxLiber
+tineT-TLF/b/n/12 strongly con-nected com-po-nents\OT1/LinuxLibertineT-TLF/m/n/1
+2 , \LGR/LinuxLibertineT-TLF/m/n/12 autì pou prèpei na doÔme sthn perÐptwsh
+ []
+
+<photos-files/section5/connected_components_report.JPG, id=82, 288.3272pt x 196
+.48407pt>
+File: photos-files/section5/connected_components_report.JPG Graphic file (type 
+jpg)
+<use photos-files/section5/connected_components_report.JPG>
+Package pdftex.def Info: photos-files/section5/connected_components_report.JPG 
+ used on input line 121.
+(pdftex.def)             Requested size: 216.80669pt x 147.75243pt.
+<photos-files/section5/section5_photo1.JPG, id=83, 671.50874pt x 630.85687pt>
+File: photos-files/section5/section5_photo1.JPG Graphic file (type jpg)
+<use photos-files/section5/section5_photo1.JPG>
+Package pdftex.def Info: photos-files/section5/section5_photo1.JPG  used on inp
+ut line 126.
+(pdftex.def)             Requested size: 433.62166pt x 407.36642pt.
+[7 <./photos-files/section5/connected_components_report.JPG>] [8 <./photos-file
+s/section5/section5_photo1.JPG>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-[7] (document.aux)
+[9] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 3AC7D3A3140917CCA8C911BAADF53488;892.
+(rerunfilecheck)             Checksum: 0A794A395CF4AC033FB4EC50B68ED2DB;1013.
  ) 
 Here is how much of TeX's memory you used:
- 16193 strings out of 474485
- 277843 string characters out of 5744206
+ 16214 strings out of 474485
+ 278952 string characters out of 5744206
  1931528 words of memory out of 5000000
- 38254 multiletter control sequences out of 15000+600000
+ 38272 multiletter control sequences out of 15000+600000
  571909 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (8 pages, 808253 bytes).
+Output written on document.pdf (10 pages, 1025253 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
