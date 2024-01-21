@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {2}Λήψη δεδομένων}{2}{section.2}%
 \contentsline {section}{\numberline {3}Γραφική Αναπαράσταση Δικτύου}{3}{section.3}%
 \contentsline {section}{\numberline {4}Βασικά στοιχεία Δικτύου}{6}{section.4}%
+\contentsline {section}{\numberline {5}Component Measures}{7}{section.5}%
 \contentsfinish 
