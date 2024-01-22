@@ -26,6 +26,8 @@
 
 \usepackage{wrapfig}
 
+\usepackage{adjustbox}
+
 
 \geometry{
 	left=0.5in,   % left margin
@@ -146,15 +148,36 @@
 	\end{center}
 	
 	\newpage
-	\subsection{Degree Distribution}
-	\textcolor{red}{vlepe pdf palias ergasias pou akolouthw j googlare genika ti eni touta pou enna ivrw gia na mporw na grapsw j antistoixa opos egrapsen j o tipas sthn palia ergasia}
-	\subsubsection{Subsubsection 1.1}
-	This is content in the first subsubsection.
+	\subsection{Degree Distribution} % --------------------------------------------------- Degree Distribution
+	\textcolor{red}{isos na valw mia mikri isagogi?}
 	
-	\subsubsection{Subsubsection 1.2}
-	This is content in the second subsubsection.
+	\subsubsection{In-Degree} % ---------------------------------------------- In-Degree
+	Το In-Degree είναι οι εισέρχόμενες προς κάποιον κόμβο ακμές. Στην περίπτωση μας, ο αριθμος αυτός αποτελεί τον αριθμό των καναλιών που έχουν ως Featured Channel το κανάλι που εξετάζουμε. Έτσι για κάθε κανάλι με τη βοήθεια του Gephi για το δίκτυο μας έχουμε:		
+	\begin{center}
+		\begin{adjustbox}{valign=t, valign=}
+			\includegraphics[width=0.34\textwidth]{photos-files/section6/in-degree1.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.34\textwidth]{photos-files/section6/in-degree2.JPG}
+		\end{adjustbox}
+	\end{center}
+	Κατανομή του In-Degree μέσω γραφικής παράστασης:
+	\begin{center}
+		\includegraphics[width=0.7\textwidth]{photos-files/section6/in-degree_graphical.JPG}
+	\end{center}
+	Μετά απο τα πιο πάνω, θα ήταν αρκετα ενδιαφέρον να δούμε πως αλλάζει το δίκτυο όσον αφορά μέγεθος και χρώμα κόμβων σε σε συνάρτηση με το In-Degree.\textcolor{red}{dipla pou thn pio katw na mpei h ipolipi ths}
+	\begin{center}
+		\includegraphics[width=0.6\textwidth]{photos-files/section6/in-degree_RE-layout.JPG}
+	\end{center}
+	Έτσι χρησιμοποιόντας τον αλγόριθμο Radial Axis Layout μπορούμε να δούμε τον διαχωρισμο που γινεται ανάμεσα στους κόμβους σε σχέση με το in-degree του κάθε καναλιού. Τα κανάλια λοιπόν χωρήστκαν σε 7 διαφορετικές ομάδες σε οριζόντιους άξονες αφου οι διαφορετικές τιμες που παρατηρούνται είναι 7 όπως είδαμε και στους πιο πάνω πίνακες. Έτσι στο σημείο αυτό μπορούμε εύκολα να δούμε τα κανάλια τα όποια υπάρχουν κατα πολυ περισσότερες φορές ως Featured channels σε άλλα. Προταγωνησικο ρόλο έχει το κανάλι της Samsung για ακόμα μια φορα ενω ακολουθούν στη συνέχια τα κανάλια SamsungUS,  KYO WON LEE κοκ.
 	
-	\subsubsection{Subsubsection 1.3}
+	\subsubsection{Out-Degree} % -------------------------------------------- Out-Degree
+	Το Out-Degree είναι οι εξέρχόμενες απο τον κάθε κόμβο ακμές. Με το δίκτυο το οποίο μελετάμε είναι ο αριθμός των Featured Channels που μπορεί να έχει ένα κανάλι όπως βλέπουμε παρακάτω.
+	
+	
+	
+	\subsubsection{Total Degree}
 	\textcolor{red}{VLEPE STHN OTHONI TOU LAPTOP TELEFTAIA YOUTUBES POU EN ANIXTA}
 	This is content in the third subsubsection.
 	
