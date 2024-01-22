@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  22 JAN 2024 17:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  22 JAN 2024 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,12 +1095,12 @@ t line 147.
 (pdftex.def)             Requested size: 108.40334pt x 90.4351pt.
  [9 <./photos-files/section6/maximum_degree.JPG> <./photos-files/section6/avera
 ge_degree.JPG>]
-<photos-files/section6/in-degree1.JPG, id=128, 203.25937pt x 589.4522pt>
+<photos-files/section6/in-degree1.JPG, id=128, 203.25937pt x 522.45187pt>
 File: photos-files/section6/in-degree1.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree1.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree1.JPG  used on input li
 ne 158.
-(pdftex.def)             Requested size: 184.28651pt x 534.45058pt.
+(pdftex.def)             Requested size: 184.28651pt x 473.70203pt.
 <photos-files/section6/in-degree2.JPG, id=129, 207.02344pt x 461.47406pt>
 File: photos-files/section6/in-degree2.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree2.JPG>
@@ -1114,22 +1114,61 @@ pt>
 File: photos-files/section6/in-degree_graphical.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree_graphical.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree_graphical.JPG  used on
- input line 167.
+ input line 168.
 (pdftex.def)             Requested size: 379.41585pt x 256.8459pt.
 <photos-files/section6/in-degree_RE-layout.JPG, id=135, 551.05875pt x 628.59843
 pt>
 File: photos-files/section6/in-degree_RE-layout.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree_RE-layout.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree_RE-layout.JPG  used on
- input line 171.
+ input line 172.
 (pdftex.def)             Requested size: 325.2183pt x 370.99455pt.
  [11 <./photos-files/section6/in-degree_graphical.JPG> <./photos-files/section6
 /in-degree_RE-layout.JPG>]
+<photos-files/section6/out-degree1.JPG, id=140, 216.81pt x 522.45187pt>
+File: photos-files/section6/out-degree1.JPG Graphic file (type jpg)
+<use photos-files/section6/out-degree1.JPG>
+Package pdftex.def Info: photos-files/section6/out-degree1.JPG  used on input l
+ine 180.
+(pdftex.def)             Requested size: 184.28651pt x 444.10213pt.
+<photos-files/section6/out-degree2.JPG, id=141, 218.31563pt x 527.72156pt>
+File: photos-files/section6/out-degree2.JPG Graphic file (type jpg)
+<use photos-files/section6/out-degree2.JPG>
+Package pdftex.def Info: photos-files/section6/out-degree2.JPG  used on input l
+ine 184.
+(pdftex.def)             Requested size: 184.28651pt x 445.46529pt.
+ [12 <./photos-files/section6/out-degree1.JPG> <./photos-files/section6/out-deg
+ree2.JPG>]
+<photos-files/section6/out-degree_graphical.JPG, id=147, 438.13687pt x 298.8665
+6pt>
+File: photos-files/section6/out-degree_graphical.JPG Graphic file (type jpg)
+<use photos-files/section6/out-degree_graphical.JPG>
+Package pdftex.def Info: photos-files/section6/out-degree_graphical.JPG  used o
+n input line 190.
+(pdftex.def)             Requested size: 379.41585pt x 258.81699pt.
+<photos-files/section6/out-degree_RE-layout.JPG, id=148, 557.08125pt x 632.3625
+pt>
+File: photos-files/section6/out-degree_RE-layout.JPG Graphic file (type jpg)
+<use photos-files/section6/out-degree_RE-layout.JPG>
+Package pdftex.def Info: photos-files/section6/out-degree_RE-layout.JPG  used o
+n input line 194.
+(pdftex.def)             Requested size: 325.2183pt x 369.17313pt.
+
+Overfull \hbox (1.36676pt too wide) in paragraph at lines 196--197
+\LGR/LinuxLibertineT-TLF/m/n/12 Me ton an-tÐs-toiqo trìpo pou doulèyame gia to 
+\OT1/LinuxLibertineT-TLF/m/n/12 In-Degree \LGR/LinuxLibertineT-TLF/m/n/12 pro-h
+goumènwc\OT1/LinuxLibertineT-TLF/m/n/12 , \LGR/LinuxLibertineT-TLF/m/n/12 doulè
+yame kai t¸ra\OT1/LinuxLibertineT-TLF/m/n/12 . \LGR/LinuxLibertineT-TLF/m/n/12 
+'Opwc parath\OT1/LinuxLibertineT-TLF/m/n/12 -
+ []
+
+[13 <./photos-files/section6/out-degree_graphical.JPG> <./photos-files/section6
+/out-degree_RE-layout.JPG>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 46.
 See the caption package documentation for explanation.
 
-[12] (document.aux)
+[14] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1138,19 +1177,19 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: E9A6472411F56AEC04D1CA6A62495E51;1818.
  ) 
 Here is how much of TeX's memory you used:
- 17192 strings out of 474485
- 298345 string characters out of 5744206
+ 17222 strings out of 474485
+ 299713 string characters out of 5744206
  1931528 words of memory out of 5000000
- 39209 multiletter control sequences out of 15000+600000
+ 39237 multiletter control sequences out of 15000+600000
  577400 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 libertine/LinLibertineTB.pfb>
-Output written on document.pdf (13 pages, 1276092 bytes).
+Output written on document.pdf (15 pages, 1486054 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 

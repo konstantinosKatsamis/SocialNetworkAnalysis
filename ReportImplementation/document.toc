@@ -10,5 +10,5 @@
 \contentsline {subsection}{\numberline {6.3}Degree Distribution}{10}{subsection.6.3}%
 \contentsline {subsubsection}{\numberline {6.3.1}In-Degree}{10}{subsubsection.6.3.1}%
 \contentsline {subsubsection}{\numberline {6.3.2}Out-Degree}{12}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{12}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{14}{subsubsection.6.3.3}%
 \contentsfinish 
