@@ -4,5 +4,8 @@
 \contentsline {section}{\numberline {3}Γραφική Αναπαράσταση Δικτύου}{3}{section.3}%
 \contentsline {section}{\numberline {4}Βασικά στοιχεία Δικτύου}{6}{section.4}%
 \contentsline {section}{\numberline {5}Component Measures}{7}{section.5}%
-\contentsline {section}{\numberline {6}Degree measures}{9}{section.6}%
+\contentsline {section}{\numberline {6}Degree Measures}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Maximum Degree}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Average Node Degrees}{9}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Degree Distribution}{9}{subsection.6.3}%
 \contentsfinish 
