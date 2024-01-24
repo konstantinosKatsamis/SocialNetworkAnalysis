@@ -11,4 +11,9 @@
 \contentsline {subsubsection}{\numberline {6.3.1}In-Degree}{10}{subsubsection.6.3.1}%
 \contentsline {subsubsection}{\numberline {6.3.2}Out-Degree}{12}{subsubsection.6.3.2}%
 \contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{15}{subsubsection.6.3.3}%
+\contentsline {section}{\numberline {7}Centrality measures}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Degree}{18}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{18}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Closeness centrality}{18}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Eigenvector centrality}{18}{subsection.7.4}%
 \contentsfinish 

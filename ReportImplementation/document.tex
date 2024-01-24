@@ -28,6 +28,8 @@
 
 \usepackage{adjustbox}
 
+\usepackage{amsmath}
+
 
 \geometry{
 	left=0.5in,   % left margin
@@ -222,6 +224,42 @@
 	\par
 	Τέλος να πούμε πως δεν έγινε κάποια αναφορά για το Weight Degree αφου στο δίκτυο που μελετάμε όλες οι ακμές έχουν ίσο βάρος πραγμα που δεν επηρεάζει τα δεδομένα μας. Επομένως δεν είχε νόημα η οποιαδίποτε αναφορά σε αυτό.		
 	\label{chap:degree_measures_6}
+	
+	
+	
+	
+	
+	\newpage
+	\section{Centrality measures}
+	
+	\subsection{Degree}
+	\textcolor{red}{dame enikserw ti na grapsw, sthn ekfonisi lalei gia Degree enw sto Section6 pou en ta Degree Measures lalei gia Total Degree. enen idia touta ta 2?}
+	
+	\subsection{Betweenness Centrality}
+	Το Betweenness Centrality δείχνει πόσο σημαντικός είναι ένας κόμβος όταν θέλουμε να συνδέσουμε όλους τους κόμβους μεταξύ τους μέσω αυτού. Για παράδειγμα, για τον κόμβο \(n_i\) βρίσκουμε για κάθε ζεύγος κόμβων(u, w) του δικτύου τις εξής τιμές όπου και τις διαιρούμε:
+	\begin{enumerate}
+		\item Το σύνολο των συντομότερων μονοπατιών απο τον κόμβο \(n_i\): \( \Sigma_{u \omega}(n_i) \)
+		\item Με τον αριθμο των συντομότερων διαδρομων που παιρνούν απο τον κόμβο x(τα μονοπάτια των u προς w):\( \Sigma_{u \omega} \)
+	\end{enumerate}
+	Αθροίζοντας το πηλίκο των διαιρέσεων των σημείων 1 και 2 βρίσκουμε το Betweenness Centrality του κόμβου x.
+	Ο τύπος για την πιο πάνω διαδικάσια δίνεται απο την σχέση \(C_B(n_i)\) = $\sum$(\( \Sigma_{u \omega}(n_i) \) / \( \Sigma_{u \omega} \)).
+	% https://www.youtube.com/watch?v=PuWNYB0u_gM
+	
+	\vspace{12pt}
+	\vspace{12pt}
+	Αφού καταλάβαμε πως προκύπτει το Betweenness Centrality, μπορούμε με την χρήση του Gephi να το βρούμε αυτόματα για όλους τους κόμβους μέσω των Statistics.
+	
+	\textcolor{red}{vallw eikones opos eshei o koumparos sto palio pou vlepw}
+	
+	
+	
+	\subsection{Closeness centrality}
+	
+	\subsection{Eigenvector centrality}
+	
+	
+	\label{chap:centrality_measures_7}
+	
 	
 	
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  22 JAN 2024 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  24 JAN 2024 02:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,10 +786,77 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \sift@deathcycles=\count286
 \@vwid@loff=\dimen184
 \@vwid@roff=\dimen185
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen186
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 43.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count292
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip17
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks26
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks27
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks28
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 45.
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
- on input line 48.
+ on input line 50.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot1linuxlibert
 inet-tlf.fd
@@ -797,77 +864,84 @@ File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 50.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box57
 ) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 48.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 4
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 5
+0.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen186
-\scratchbox=\box56
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen187
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count300
+\scratchdimen=\dimen195
+\scratchbox=\box58
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen196
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks31
 )
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \Upsilon on input line 48.
-LaTeX Info: Redefining \Omega on input line 48.
-LaTeX Info: Redefining \alpha on input line 48.
-LaTeX Info: Redefining \epsilon on input line 48.
-LaTeX Info: Redefining \eta on input line 48.
-LaTeX Info: Redefining \iota on input line 48.
-LaTeX Info: Redefining \rho on input line 48.
-LaTeX Info: Redefining \upsilon on input line 48.
-LaTeX Info: Redefining \omega on input line 48.
+LaTeX Info: Redefining \Upsilon on input line 50.
+LaTeX Info: Redefining \Omega on input line 50.
+LaTeX Info: Redefining \alpha on input line 50.
+LaTeX Info: Redefining \epsilon on input line 50.
+LaTeX Info: Redefining \eta on input line 50.
+LaTeX Info: Redefining \iota on input line 50.
+LaTeX Info: Redefining \rho on input line 50.
+LaTeX Info: Redefining \upsilon on input line 50.
+LaTeX Info: Redefining \omega on input line 50.
    defining Unicode char U+0393 (decimal 915)
    defining Unicode char U+0394 (decimal 916)
    defining Unicode char U+0398 (decimal 920)
@@ -909,9 +983,9 @@ LaTeX Info: Redefining \omega on input line 48.
    defining Unicode char U+03DD (decimal 989)
    defining Unicode char U+03F1 (decimal 1009)
    defining Unicode char U+03F5 (decimal 1013)
-\c@mv@tabular=\count294
-\c@mv@boldtabular=\count295
-Package hyperref Info: Link coloring ON on input line 48.
+\c@mv@tabular=\count306
+\c@mv@boldtabular=\count307
+Package hyperref Info: Link coloring ON on input line 50.
  (document.out) (document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
@@ -954,19 +1028,19 @@ Package hyperref Info: Link coloring ON on input line 48.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<photos-files/aueb_logo.jpg, id=51, 502.87875pt x 268.00125pt>
+<photos-files/aueb_logo.jpg, id=71, 502.87875pt x 268.00125pt>
 File: photos-files/aueb_logo.jpg Graphic file (type jpg)
 <use photos-files/aueb_logo.jpg>
-Package pdftex.def Info: photos-files/aueb_logo.jpg  used on input line 52.
+Package pdftex.def Info: photos-files/aueb_logo.jpg  used on input line 54.
 (pdftex.def)             Requested size: 271.0125pt x 144.43225pt.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 56.
+(Font)              scaled to size 17.28pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 56.
+(Font)              scaled to size 17.28pt on input line 58.
 [1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/
@@ -974,7 +1048,7 @@ AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc}{C:/Use
 rs/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
 } <./photos-files/aueb_logo.jpg>]
 LaTeX Font Info:    Trying to load font information for LGR+LinuxLibertineT-TLF
- on input line 62.
+ on input line 64.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertinegc\lgrlinuxlibe
 rtinet-tlf.fd
@@ -982,16 +1056,10 @@ File: LGRLinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine LGR
 )
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 62.
+(Font)              scaled to size 17.28pt on input line 64.
  (document.toc
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
 )
 \tf@toc=\write4
 \openout4 = `document.toc'.
@@ -1001,32 +1069,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 	\newpage
+l.66 	\newpage
                 % Start content on a new page [1{C:/Users/user/AppData/Local/Pr
 ograms/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}] [2]
-<photos-files/section3/first_painting.jpg, id=89, 606.01407pt x 536.0025pt>
+<photos-files/section3/first_painting.jpg, id=115, 606.01407pt x 536.0025pt>
 File: photos-files/section3/first_painting.jpg Graphic file (type jpg)
 <use photos-files/section3/first_painting.jpg>
 Package pdftex.def Info: photos-files/section3/first_painting.jpg  used on inpu
-t line 78.
+t line 80.
 (pdftex.def)             Requested size: 379.41585pt x 335.5896pt.
  [3 <./photos-files/section3/first_painting.jpg>]
-<photos-files/section3/second_painting.jpg, id=94, 912.40875pt x 639.89063pt>
+<photos-files/section3/second_painting.jpg, id=120, 912.40875pt x 639.89063pt>
 File: photos-files/section3/second_painting.jpg Graphic file (type jpg)
 <use photos-files/section3/second_painting.jpg>
 Package pdftex.def Info: photos-files/section3/second_painting.jpg  used on inp
-ut line 84.
+ut line 86.
 (pdftex.def)             Requested size: 433.62166pt x 304.10742pt.
  [4 <./photos-files/section3/second_painting.jpg>]
-<photos-files/section3/third_painting.jpg, id=99, 673.01437pt x 645.16031pt>
+<photos-files/section3/third_painting.jpg, id=125, 673.01437pt x 645.16031pt>
 File: photos-files/section3/third_painting.jpg Graphic file (type jpg)
 <use photos-files/section3/third_painting.jpg>
 Package pdftex.def Info: photos-files/section3/third_painting.jpg  used on inpu
-t line 91.
+t line 93.
 (pdftex.def)             Requested size: 433.62166pt x 415.67729pt.
  [5 <./photos-files/section3/third_painting.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 100.
+ on input line 102.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linuxlibert
 inet-tlf.fd
@@ -1034,127 +1102,127 @@ File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
+(Font)              scaled to size 12.0pt on input line 102.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
+(Font)              scaled to size 12.0pt on input line 102.
 LaTeX Font Info:    Font shape `LGR/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 100.
-<photos-files/section4/ate.JPG, id=104, 338.76563pt x 118.19156pt>
+(Font)              scaled to size 12.0pt on input line 102.
+<photos-files/section4/ate.JPG, id=130, 338.76563pt x 118.19156pt>
 File: photos-files/section4/ate.JPG Graphic file (type jpg)
 <use photos-files/section4/ate.JPG>
-Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 104.
+Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 106.
 
 (pdftex.def)             Requested size: 433.62166pt x 151.29189pt.
-<photos-files/section4/graph_distance_report.JPG, id=105, 221.32687pt x 151.315
+<photos-files/section4/graph_distance_report.JPG, id=131, 221.32687pt x 151.315
 3pt>
 File: photos-files/section4/graph_distance_report.JPG Graphic file (type jpg)
 <use photos-files/section4/graph_distance_report.JPG>
 Package pdftex.def Info: photos-files/section4/graph_distance_report.JPG  used 
-on input line 111.
+on input line 113.
 (pdftex.def)             Requested size: 216.80669pt x 148.23256pt.
  [6{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_
 naooyc.enc} <./photos-files/section4/ate.JPG> <./photos-files/section4/graph_di
 stance_report.JPG>]
-Overfull \hbox (6.53285pt too wide) in paragraph at lines 120--121
+Overfull \hbox (6.53285pt too wide) in paragraph at lines 122--123
 []\LGR/LinuxLibertineT-TLF/m/n/12 AnaforÐka me ton ar-i-jmì twn \OT1/LinuxLiber
 tineT-TLF/b/n/12 strongly con-nected com-po-nents\OT1/LinuxLibertineT-TLF/m/n/1
 2 , \LGR/LinuxLibertineT-TLF/m/n/12 autì pou prèpei na doÔme sthn perÐptwsh
  []
 
-<photos-files/section5/connected_components_report.JPG, id=112, 288.3272pt x 19
+<photos-files/section5/connected_components_report.JPG, id=138, 288.3272pt x 19
 6.48407pt>
 File: photos-files/section5/connected_components_report.JPG Graphic file (type 
 jpg)
 <use photos-files/section5/connected_components_report.JPG>
 Package pdftex.def Info: photos-files/section5/connected_components_report.JPG 
- used on input line 123.
+ used on input line 125.
 (pdftex.def)             Requested size: 216.80669pt x 147.75243pt.
-<photos-files/section5/section5_photo1.JPG, id=113, 671.50874pt x 630.85687pt>
+<photos-files/section5/section5_photo1.JPG, id=139, 671.50874pt x 630.85687pt>
 File: photos-files/section5/section5_photo1.JPG Graphic file (type jpg)
 <use photos-files/section5/section5_photo1.JPG>
 Package pdftex.def Info: photos-files/section5/section5_photo1.JPG  used on inp
-ut line 128.
+ut line 130.
 (pdftex.def)             Requested size: 433.62166pt x 407.36642pt.
 [7 <./photos-files/section5/connected_components_report.JPG>] [8 <./photos-file
 s/section5/section5_photo1.JPG>]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 138.
+(Font)              scaled to size 14.4pt on input line 140.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 138.
-<photos-files/section6/maximum_degree.JPG, id=122, 148.30406pt x 161.10187pt>
+(Font)              scaled to size 14.4pt on input line 140.
+<photos-files/section6/maximum_degree.JPG, id=148, 148.30406pt x 161.10187pt>
 File: photos-files/section6/maximum_degree.JPG Graphic file (type jpg)
 <use photos-files/section6/maximum_degree.JPG>
 Package pdftex.def Info: photos-files/section6/maximum_degree.JPG  used on inpu
-t line 141.
+t line 143.
 (pdftex.def)             Requested size: 162.60915pt x 176.6472pt.
-<photos-files/section6/average_degree.JPG, id=123, 136.25906pt x 113.67468pt>
+<photos-files/section6/average_degree.JPG, id=149, 136.25906pt x 113.67468pt>
 File: photos-files/section6/average_degree.JPG Graphic file (type jpg)
 <use photos-files/section6/average_degree.JPG>
 Package pdftex.def Info: photos-files/section6/average_degree.JPG  used on inpu
-t line 147.
+t line 149.
 (pdftex.def)             Requested size: 108.40334pt x 90.4351pt.
  [9 <./photos-files/section6/maximum_degree.JPG> <./photos-files/section6/avera
 ge_degree.JPG>]
-<photos-files/section6/in-degree1.JPG, id=128, 203.25937pt x 522.45187pt>
+<photos-files/section6/in-degree1.JPG, id=154, 203.25937pt x 522.45187pt>
 File: photos-files/section6/in-degree1.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree1.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree1.JPG  used on input li
-ne 158.
+ne 160.
 (pdftex.def)             Requested size: 184.28651pt x 473.70203pt.
-<photos-files/section6/in-degree2.JPG, id=129, 207.02344pt x 461.47406pt>
+<photos-files/section6/in-degree2.JPG, id=155, 207.02344pt x 461.47406pt>
 File: photos-files/section6/in-degree2.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree2.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree2.JPG  used on input li
-ne 162.
+ne 164.
 (pdftex.def)             Requested size: 184.28651pt x 410.80214pt.
  [10 <./photos-files/section6/in-degree1.JPG> <./photos-files/section6/in-degre
 e2.JPG>]
-<photos-files/section6/in-degree_graphical.JPG, id=134, 440.39531pt x 298.11375
+<photos-files/section6/in-degree_graphical.JPG, id=160, 440.39531pt x 298.11375
 pt>
 File: photos-files/section6/in-degree_graphical.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree_graphical.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree_graphical.JPG  used on
- input line 168.
+ input line 170.
 (pdftex.def)             Requested size: 379.41585pt x 256.8459pt.
-<photos-files/section6/in-degree_RE-layout.JPG, id=135, 551.05875pt x 628.59843
+<photos-files/section6/in-degree_RE-layout.JPG, id=161, 551.05875pt x 628.59843
 pt>
 File: photos-files/section6/in-degree_RE-layout.JPG Graphic file (type jpg)
 <use photos-files/section6/in-degree_RE-layout.JPG>
 Package pdftex.def Info: photos-files/section6/in-degree_RE-layout.JPG  used on
- input line 172.
+ input line 174.
 (pdftex.def)             Requested size: 325.2183pt x 370.99455pt.
  [11 <./photos-files/section6/in-degree_graphical.JPG> <./photos-files/section6
 /in-degree_RE-layout.JPG>]
-<photos-files/section6/out-degree1.JPG, id=140, 216.81pt x 522.45187pt>
+<photos-files/section6/out-degree1.JPG, id=166, 216.81pt x 522.45187pt>
 File: photos-files/section6/out-degree1.JPG Graphic file (type jpg)
 <use photos-files/section6/out-degree1.JPG>
 Package pdftex.def Info: photos-files/section6/out-degree1.JPG  used on input l
-ine 180.
+ine 182.
 (pdftex.def)             Requested size: 184.28651pt x 444.10213pt.
-<photos-files/section6/out-degree2.JPG, id=141, 218.31563pt x 527.72156pt>
+<photos-files/section6/out-degree2.JPG, id=167, 218.31563pt x 527.72156pt>
 File: photos-files/section6/out-degree2.JPG Graphic file (type jpg)
 <use photos-files/section6/out-degree2.JPG>
 Package pdftex.def Info: photos-files/section6/out-degree2.JPG  used on input l
-ine 184.
+ine 186.
 (pdftex.def)             Requested size: 184.28651pt x 445.46529pt.
  [12 <./photos-files/section6/out-degree1.JPG> <./photos-files/section6/out-deg
 ree2.JPG>]
-<photos-files/section6/out-degree_graphical.JPG, id=147, 438.13687pt x 298.8665
+<photos-files/section6/out-degree_graphical.JPG, id=173, 438.13687pt x 298.8665
 6pt>
 File: photos-files/section6/out-degree_graphical.JPG Graphic file (type jpg)
 <use photos-files/section6/out-degree_graphical.JPG>
 Package pdftex.def Info: photos-files/section6/out-degree_graphical.JPG  used o
-n input line 190.
+n input line 192.
 (pdftex.def)             Requested size: 379.41585pt x 258.81699pt.
-<photos-files/section6/out-degree_RE-layout.JPG, id=148, 557.08125pt x 632.3625
+<photos-files/section6/out-degree_RE-layout.JPG, id=174, 557.08125pt x 632.3625
 pt>
 File: photos-files/section6/out-degree_RE-layout.JPG Graphic file (type jpg)
 <use photos-files/section6/out-degree_RE-layout.JPG>
 Package pdftex.def Info: photos-files/section6/out-degree_RE-layout.JPG  used o
-n input line 194.
+n input line 196.
 (pdftex.def)             Requested size: 325.2183pt x 369.17313pt.
 
-Overfull \hbox (1.36676pt too wide) in paragraph at lines 196--197
+Overfull \hbox (1.36676pt too wide) in paragraph at lines 198--199
 \LGR/LinuxLibertineT-TLF/m/n/12 Me ton an-tÐs-toiqo trìpo pou doulèyame gia to 
 \OT1/LinuxLibertineT-TLF/m/n/12 In-Degree \LGR/LinuxLibertineT-TLF/m/n/12 pro-h
 goumènwc\OT1/LinuxLibertineT-TLF/m/n/12 , \LGR/LinuxLibertineT-TLF/m/n/12 doulè
@@ -1164,62 +1232,67 @@ yame kai t¸ra\OT1/LinuxLibertineT-TLF/m/n/12 . \LGR/LinuxLibertineT-TLF/m/n/12
 
 [13 <./photos-files/section6/out-degree_graphical.JPG> <./photos-files/section6
 /out-degree_RE-layout.JPG>] [14]
-<photos-files/section6/total-degree1.JPG, id=157, 188.95593pt x 520.19344pt>
+<photos-files/section6/total-degree1.JPG, id=183, 188.95593pt x 520.19344pt>
 File: photos-files/section6/total-degree1.JPG Graphic file (type jpg)
 <use photos-files/section6/total-degree1.JPG>
 Package pdftex.def Info: photos-files/section6/total-degree1.JPG  used on input
- line 203.
+ line 205.
 (pdftex.def)             Requested size: 184.28651pt x 507.34132pt.
-<photos-files/section6/total-degree2.JPG, id=158, 191.21437pt x 531.48563pt>
+<photos-files/section6/total-degree2.JPG, id=184, 191.21437pt x 531.48563pt>
 File: photos-files/section6/total-degree2.JPG Graphic file (type jpg)
 <use photos-files/section6/total-degree2.JPG>
 Package pdftex.def Info: photos-files/section6/total-degree2.JPG  used on input
- line 207.
+ line 209.
 (pdftex.def)             Requested size: 184.28651pt x 512.25597pt.
  [15 <./photos-files/section6/total-degree1.JPG> <./photos-files/section6/total
 -degree2.JPG>]
-<photos-files/section6/total-degree_graphical.JPG, id=163, 441.14813pt x 297.36
+<photos-files/section6/total-degree_graphical.JPG, id=189, 441.14813pt x 297.36
 093pt>
 File: photos-files/section6/total-degree_graphical.JPG Graphic file (type jpg)
 <use photos-files/section6/total-degree_graphical.JPG>
 Package pdftex.def Info: photos-files/section6/total-degree_graphical.JPG  used
- on input line 213.
+ on input line 215.
 (pdftex.def)             Requested size: 379.41585pt x 255.7617pt.
-<photos-files/section6/total-degree_RE-layout.png, id=164, 475.7775pt x 633.868
+<photos-files/section6/total-degree_RE-layout.png, id=190, 475.7775pt x 633.868
 12pt>
 File: photos-files/section6/total-degree_RE-layout.png Graphic file (type png)
 <use photos-files/section6/total-degree_RE-layout.png>
 Package pdftex.def Info: photos-files/section6/total-degree_RE-layout.png  used
- on input line 217.
+ on input line 219.
 (pdftex.def)             Requested size: 271.0125pt x 361.07646pt.
  [16 <./photos-files/section6/total-degree_graphical.JPG> <./photos-files/secti
 on6/total-degree_RE-layout.png>]
+[17]
 
-Package caption Warning: Unused \captionsetup[figure] on input line 46.
+Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[17] (document.aux)
+[18] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: E9A6472411F56AEC04D1CA6A62495E51;1818.
+(rerunfilecheck)             Checksum: 82A59DEAF59A277A4FE281B96550C43A;2551.
  ) 
 Here is how much of TeX's memory you used:
- 17253 strings out of 474485
- 301144 string characters out of 5744206
- 1931528 words of memory out of 5000000
- 39265 multiletter control sequences out of 15000+600000
- 577400 words of font info for 64 fonts, out of 8000000 for 9000
+ 17998 strings out of 474485
+ 311421 string characters out of 5744206
+ 1932528 words of memory out of 5000000
+ 39980 multiletter control sequences out of 15000+600000
+ 578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,117p,2935b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Lin
 LibertineT.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-libertine/LinLibertineTB.pfb>
-Output written on document.pdf (18 pages, 1721952 bytes).
+libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/user/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on document.pdf (19 pages, 1763773 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 207 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 247 words of extra memory for PDF output out of 10000 (max. 10000000)
 
