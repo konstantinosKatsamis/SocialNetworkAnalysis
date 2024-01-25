@@ -263,10 +263,34 @@
 	mporei omos na thelei na eksaplothi evropi?}
 	
 	\newpage
-	\subsection{Closeness centrality}
+	\subsection{Closeness Centrality}
+	Το Closeness Centrality είναι μια μετρηκη που αποσκοπέι στο πόσο κοντά είναι ένας κόμβος σε όλους τους άλλους. Να σημειωθεί επίσης οτι μικρότεροι αριθμοί δείχνουν πως ένας κόμβος έχει υψηλό Closeness Centrality. Τον τρόπο με τον οποίο μπορούμε να υπολογίσουμε τη μετρικλη αυτή σε ένα κατευθυνόμενο δίκτυο όπως το δικό μας μπορούμε να τον δούμε μέσω του ακόλουθου παραδείγματος.
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{photos-files/section7/closeness_centrality_example.JPG}
+	\end{center}
+	Έστω πως θέλουμε να βρούμε το Closeness Centrality για τον κόμβο C. Βρίσκουμε τον συνολικό αριθμό αριθμό κόμβων του δικτύο μας και αφαιρούμε ένα, και τον διαιρούμε με το άθροισμα των συντομότερων μονοπατιών απο τον κόμβο που εξετάζουμε προς όλους τους υπόλοιπους. Επομένως για τον κόμβο C έχουμε:
+	\begin{center}
+		\includegraphics[width=0.7\textwidth]{photos-files/section7/array_of_example.JPG}
+	\end{center}
+	Άρα το Closeness Centrality του κόμβου C είναι 7/14 = 0.5
+	\vspace{12pt}
+	\vspace{12pt}
+	
+	Επομένως με την βοήθεια του Gephi μέσω των Statistics έχουμε τις εξής τιμές για τη μετρική αυτή.
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.34\textwidth]{photos-files/section7/closeness_centrality1.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.34\textwidth]{photos-files/section7/closeness_centrality2.JPG}
+		\end{adjustbox}
+	\end{center}
 	
 	
-
+	
+	
+	
 	
 	
 	
