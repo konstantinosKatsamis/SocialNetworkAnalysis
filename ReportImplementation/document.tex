@@ -222,7 +222,7 @@
 	Το πρώτο πράγμα που μπορεί να προσέξει κανεις για το σχήμα που προέκυψε με μετρική το Total Degree είναι πως υπάρχει ο ίδιος αριθμός ομάδων κατα πλήθος κόμβων σε σχέση με πριν. Η διαφορά όμως έγγυται στο γεγονός πως όλοι σχεδόν οι κόμβοι που υπήρχαν και πριν στο Out-Degree, πέραν απο τον προφανές της Samsung, υπάρχουν και τώρα. Άρα φαίνεται πως το Out-Degree είναι αυτο που παίζει τον πιο σημαντικό ρόλο αφού όπως είπαμε και προηγουμένως είναι αυτό που καθορίζει ποια κανάλια θα προωθηθούν περισσότερο απο τον τρόπο που δουλεύει το Youtube μέσω των Featured Channels.
 	\vspace{12pt}
 	\par
-	Τέλος να πούμε πως δεν έγινε κάποια αναφορά για το Weight Degree αφου στο δίκτυο που μελετάμε όλες οι ακμές έχουν ίσο βάρος πραγμα που δεν επηρεάζει τα δεδομένα μας. Επομένως δεν είχε νόημα η οποιαδίποτε αναφορά σε αυτό.		
+	Τέλος να πούμε πως δεν έγινε κάποια αναφορά για το Weight Degree αφου στο δίκτυο που μελετάμε όλες οι ακμές έχουν ίσο βάρος πραγμα που δεν επηρεάζει τα δεδομένα μας. Επομένως δεν είχε νόημα η οποιαδίποτε αναφορά σε αυτό. \textcolor{red}{sioureftou full gia touto an j nmz en k dioti j sto fire etsi elalen}
 	\label{chap:degree_measures_6}
 	
 	
@@ -236,7 +236,7 @@
 	\textcolor{red}{dame enikserw ti na grapsw, sthn ekfonisi lalei gia Degree enw sto Section6 pou en ta Degree Measures lalei gia Total Degree. enen idia touta ta 2?}
 	
 	\subsection{Betweenness Centrality}
-	Το Betweenness Centrality δείχνει πόσο σημαντικός είναι ένας κόμβος όταν θέλουμε να συνδέσουμε όλους τους κόμβους μεταξύ τους μέσω αυτού. Για παράδειγμα, για τον κόμβο \(n_i\) βρίσκουμε για κάθε ζεύγος κόμβων(u, w) του δικτύου τις εξής τιμές όπου και τις διαιρούμε:
+	Το Betweenness Centrality δείχνει πόσο σημαντικός είναι ένας κόμβος(ως ενδιάμεσος) όταν θέλουμε να συνδέσουμε όλους τους κόμβους μεταξύ τους μέσω αυτού. Για παράδειγμα, για τον κόμβο \(n_i\) βρίσκουμε για κάθε ζεύγος κόμβων(u, w) του δικτύου τις εξής τιμές όπου και τις διαιρούμε:
 	\begin{enumerate}
 		\item Το σύνολο των συντομότερων μονοπατιών απο τον κόμβο \(n_i\): \( \Sigma_{u \omega}(n_i) \)
 		\item Με τον αριθμο των συντομότερων διαδρομων που παιρνούν απο τον κόμβο x(τα μονοπάτια των u προς w):\( \Sigma_{u \omega} \)
@@ -248,12 +248,28 @@
 	\vspace{12pt}
 	\vspace{12pt}
 	Αφού καταλάβαμε πως προκύπτει το Betweenness Centrality, μπορούμε με την χρήση του Gephi να το βρούμε αυτόματα για όλους τους κόμβους μέσω των Statistics.
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.34\textwidth]{photos-files/section7/betweenness_centrality1.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.34\textwidth]{photos-files/section7/betweenness_centrality2.JPG}
+		\end{adjustbox}
+	\end{center}
+	\vspace{12pt}
+	Όπως φαίνεται και απο τους πιο πάνω πίνακες λοιπόν, είναι λίγες οι χώρες που έχουν μη μηδενικό Betweenness Centrality. Στην κορυφή των μετρήσεων μας είναι για ακόμη μια φορα το κανάλι της Samsung ενώ έχουν ανέβει στην κορυφή τώρα ορισμένα κανάλια όπου σε προηγούμενες μετρλησεις δεν ήταν σε τόσο υψηλή θέση. Παραδείγματα τέτοιων καναλιών είναι τα Samsung Polska(Πολωνία), Samsung Maroc, Samsung Australia, Samsung Vietnam, Samsung Osterreich(Αυστρία), Samsung Deutschland(Γερμανία), Samsung Sverige(Σουηδία), Samsung Suomi(Φινλανδία), Samsung Norge(Νορβηγία), Samsung Mexico και Samsung France. Όπως παρατηρούμε, υπάρχει μια χώρα απο κάθε ήπειρο εκτός απο την Ευρώπη που συγκεντρώνει 7 χώρες. \textcolor{red}{epia na dw an paizoun rolo oi polisis alla en nmz afou jina pou ivra en entelos diaforetika
+	https://www.statista.com/statistics/237092/share-of-revenue-at-samsung-electronics-by-region/
+	mporei omos na thelei na eksaplothi evropi?}
 	
-	\textcolor{red}{vallw eikones opos eshei o koumparos sto palio pou vlepw}
-	
-	
-	
+	\newpage
 	\subsection{Closeness centrality}
+	
+	
+
+	
+	
+	
 	
 	\subsection{Eigenvector centrality}
 	

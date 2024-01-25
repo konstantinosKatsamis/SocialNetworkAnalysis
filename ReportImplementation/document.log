@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  24 JAN 2024 02:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  25 JAN 2024 02:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,11 +1263,46 @@ Package pdftex.def Info: photos-files/section6/total-degree_RE-layout.png  used
  [16 <./photos-files/section6/total-degree_graphical.JPG> <./photos-files/secti
 on6/total-degree_RE-layout.png>]
 [17]
+<photos-files/section7/betweenness_centrality1.JPG, id=201, 241.65282pt x 523.9
+575pt>
+File: photos-files/section7/betweenness_centrality1.JPG Graphic file (type jpg)
+
+<use photos-files/section7/betweenness_centrality1.JPG>
+Package pdftex.def Info: photos-files/section7/betweenness_centrality1.JPG  use
+d on input line 253.
+(pdftex.def)             Requested size: 184.28651pt x 399.58698pt.
+<photos-files/section7/betweenness_centrality2.JPG, id=202, 240.14719pt x 529.2
+2719pt>
+File: photos-files/section7/betweenness_centrality2.JPG Graphic file (type jpg)
+
+<use photos-files/section7/betweenness_centrality2.JPG>
+Package pdftex.def Info: photos-files/section7/betweenness_centrality2.JPG  use
+d on input line 257.
+(pdftex.def)             Requested size: 184.28651pt x 406.13338pt.
+ [18]
+Overfull \hbox (10.16994pt too wide) in paragraph at lines 261--264
+\OT1/LinuxLibertineT-TLF/m/n/12 Sverige(\LGR/LinuxLibertineT-TLF/m/n/12 Souhd–a
+\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Suomi(\LGR/LinuxLibertineT-TLF/m/n/
+12 Finland–a\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Norge(\LGR/LinuxLiberti
+neT-TLF/m/n/12 Norbhg–a\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Mex-ico \LGR
+/LinuxLibertineT-TLF/m/n/12 kai \OT1/LinuxLibertineT-TLF/m/n/12 Sam-sung France
+.
+ []
+
+
+Overfull \hbox (121.47365pt too wide) in paragraph at lines 261--264
+[]\OT1/LinuxLibertineT-TLF/m/n/12 epia na dw an paizoun rolo oi poli-sis alla e
+n nmz afou jina pou ivra en en-te-los di-afore-tika https://www.statista.com/st
+atistics/237092/share-
+ []
+
+[19 <./photos-files/section7/betweenness_centrality1.JPG> <./photos-files/secti
+on7/betweenness_centrality2.JPG>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[18] (document.aux)
+[20] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1276,10 +1311,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 82A59DEAF59A277A4FE281B96550C43A;2551.
  ) 
 Here is how much of TeX's memory you used:
- 17998 strings out of 474485
- 311421 string characters out of 5744206
+ 18015 strings out of 474485
+ 312228 string characters out of 5744206
  1932528 words of memory out of 5000000
- 39980 multiletter control sequences out of 15000+600000
+ 39995 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1290,9 +1325,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (19 pages, 1763773 bytes).
+Output written on document.pdf (21 pages, 1877607 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
