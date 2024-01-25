@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  25 JAN 2024 05:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  25 JAN 2024 07:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1280,20 +1280,9 @@ Package pdftex.def Info: photos-files/section7/betweenness_centrality2.JPG  use
 d on input line 257.
 (pdftex.def)             Requested size: 184.28651pt x 406.13338pt.
  [18]
-Overfull \hbox (10.16994pt too wide) in paragraph at lines 261--264
-\OT1/LinuxLibertineT-TLF/m/n/12 Sverige(\LGR/LinuxLibertineT-TLF/m/n/12 Souhd–a
-\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Suomi(\LGR/LinuxLibertineT-TLF/m/n/
-12 Finland–a\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Norge(\LGR/LinuxLiberti
-neT-TLF/m/n/12 Norbhg–a\OT1/LinuxLibertineT-TLF/m/n/12 ), Sam-sung Mex-ico \LGR
-/LinuxLibertineT-TLF/m/n/12 kai \OT1/LinuxLibertineT-TLF/m/n/12 Sam-sung France
-.
- []
-
-
-Overfull \hbox (121.47365pt too wide) in paragraph at lines 261--264
-[]\OT1/LinuxLibertineT-TLF/m/n/12 epia na dw an paizoun rolo oi poli-sis alla e
-n nmz afou jina pou ivra en en-te-los di-afore-tika https://www.statista.com/st
-atistics/237092/share-
+Overfull \hbox (3.96355pt too wide) in paragraph at lines 261--264
+\OT1/LinuxLibertineT-TLF/m/n/12 https://www.statista.com/statistics/237092/shar
+e-of-revenue-at-samsung-electronics-by-region/ mporei omos na
  []
 
 [19 <./photos-files/section7/betweenness_centrality1.JPG> <./photos-files/secti
@@ -1329,12 +1318,19 @@ on input line 286.
 (pdftex.def)             Requested size: 184.28651pt x 404.48952pt.
  [20 <./photos-files/section7/closeness_centrality_example.JPG> <./photos-files
 /section7/array_of_example.JPG>]
+<photos-files/section7/bar_chart_for_7.3.JPG, id=226, 415.5525pt x 337.26pt>
+File: photos-files/section7/bar_chart_for_7.3.JPG Graphic file (type jpg)
+<use photos-files/section7/bar_chart_for_7.3.JPG>
+Package pdftex.def Info: photos-files/section7/bar_chart_for_7.3.JPG  used on i
+nput line 294.
+(pdftex.def)             Requested size: 379.41585pt x 307.9466pt.
+ [21 <./photos-files/section7/closeness_centrality1.JPG> <./photos-files/sectio
+n7/closeness_centrality2.JPG>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[21 <./photos-files/section7/closeness_centrality1.JPG> <./photos-files/section
-7/closeness_centrality2.JPG>] (document.aux)
+[22 <./photos-files/section7/bar_chart_for_7.3.JPG>] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1343,10 +1339,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 0167B9C6DFFF4DEA246FC411D8FE8A0B;2551.
  ) 
 Here is how much of TeX's memory you used:
- 18044 strings out of 474485
- 313757 string characters out of 5744206
+ 18052 strings out of 474485
+ 314113 string characters out of 5744206
  1932528 words of memory out of 5000000
- 40023 multiletter control sequences out of 15000+600000
+ 40030 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1357,9 +1353,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (22 pages, 2038925 bytes).
+Output written on document.pdf (23 pages, 2060619 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

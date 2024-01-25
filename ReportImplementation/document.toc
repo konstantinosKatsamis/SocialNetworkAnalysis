@@ -15,5 +15,5 @@
 \contentsline {subsection}{\numberline {7.1}Degree}{18}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{18}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Closeness Centrality}{20}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Eigenvector centrality}{21}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.4}Eigenvector centrality}{22}{subsection.7.4}%
 \contentsfinish 
