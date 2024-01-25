@@ -26,7 +26,7 @@ def create_table_b(ta):
     return tb
 
 # Read numbers from a text file
-with open('ma.txt', 'r') as file:
+with open('cc7.3.txt', 'r') as file:
     lines = file.readlines()
 
 # Convert lines to a list of floating-point numbers
@@ -34,7 +34,7 @@ ta = [float(line.strip()) for line in lines]
 
 # Create table b
 tb = create_table_b(ta)
-
+print(tb)
 
 # Extract x and y values for plotting
 x_values = [row[0] for row in tb]

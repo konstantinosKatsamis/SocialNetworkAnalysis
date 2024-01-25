@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  26 JAN 2024 00:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  26 JAN 2024 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1332,7 +1332,7 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 0167B9C6DFFF4DEA246FC411D8FE8A0B;2551.
+(rerunfilecheck)             Checksum: E32C62930D0D1C56173978AA90B67477;2551.
  ) 
 Here is how much of TeX's memory you used:
  18052 strings out of 474485
@@ -1349,7 +1349,7 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (24 pages, 2061185 bytes).
+Output written on document.pdf (24 pages, 2061183 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  43 named destinations out of 1000 (max. 500000)
