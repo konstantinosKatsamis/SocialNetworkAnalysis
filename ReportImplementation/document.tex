@@ -258,9 +258,8 @@
 		\end{adjustbox}
 	\end{center}
 	\vspace{12pt}
-	Όπως φαίνεται και απο τους πιο πάνω πίνακες λοιπόν, είναι λίγες οι χώρες που έχουν μη μηδενικό Betweenness Centrality. Στην κορυφή των μετρήσεων μας είναι για ακόμη μια φορα το κανάλι της Samsung ενώ έχουν ανέβει στην κορυφή τώρα ορισμένα κανάλια όπου σε προηγούμενες μετρλησεις δεν ήταν σε τόσο υψηλή θέση. Παραδείγματα τέτοιων καναλιών είναι τα Samsung Polska(Πολωνία), Samsung Maroc, Samsung Australia, Samsung Vietnam, Samsung Osterreich(Αυστρία), \textcolor{red}{eksiasa thn india} Samsung Deutschland(Γερμανία), Samsung Sverige(Σουηδία), Samsung Suomi(Φινλανδία), Samsung Norge(Νορβηγία), Samsung Mexico και Samsung France. Όπως παρατηρούμε, υπάρχει μια χώρα απο κάθε ήπειρο εκτός απο την Ευρώπη που συγκεντρώνει 7 χώρες. \textcolor{red}{epia na dw an paizoun rolo oi polisis alla en nmz afou jina pou ivra en entelos diaforetika
-	https://www.statista.com/statistics/237092/share-of-revenue-at-samsung-electronics-by-region/
-	mporei omos na thelei na eksaplothi evropi?}
+	Όπως φαίνεται και απο τους πιο πάνω πίνακες λοιπόν, είναι λίγες οι χώρες που έχουν μη μηδενικό Betweenness Centrality. Στην κορυφή των μετρήσεων μας είναι για ακόμη μια φορα το κανάλι της Samsung ενώ έχουν ανέβει στην κορυφή τώρα ορισμένα κανάλια όπου σε προηγούμενες μετρλησεις δεν ήταν σε τόσο υψηλή θέση. %Παραδείγματα τέτοιων καναλιών είναι τα Samsung Polska(Πολωνία), Samsung Maroc, Samsung Australia, Samsung Vietnam, Samsung Osterreich(Αυστρία), \textcolor{red}{eksiasa thn india} Samsung Deutschland(Γερμανία), Samsung Sverige(Σουηδία), Samsung Suomi(Φινλανδία), Samsung Norge(Νορβηγία), Samsung Mexico και Samsung France. 
+	Όπως βλέπουμε, υπάρχουν μία ή περισσότερες χώρες απο κάθε ήπειρο εκτός απο την Ευρώπη που συγκεντρώνει 7 χώρες.
 	
 	\newpage
 	\subsection{Closeness Centrality}
@@ -273,10 +272,12 @@
 		\includegraphics[width=0.7\textwidth]{photos-files/section7/array_of_example.JPG}
 	\end{center}
 	Άρα το Closeness Centrality του κόμβου C είναι 7/14 = 0.5
-	\vspace{12pt}
-	\vspace{12pt}
+	\par
+	Να πούμε επίσης πως σε κατευθυνόενους γράφους, παίζει ρόλο η φορά των ακμών. Για παράδειγμα σε περιπτωσεις όπου δεν υπάρχει διαδρομή λόγω φοράς ακμών, θεωρούμε μηδενικό το μονοπάτι. Έτσι γενικέυοντας το πιο πάνω υπάρχει περίπτωση κάποιος κόμβος να έχει μηδενικό Betweenness Centrality.
 	
-	Επομένως με την βοήθεια του Gephi μέσω των Statistics έχουμε τις εξής τιμές για τη μετρική αυτή.
+	\newpage
+	Τώρα με την βοήθεια του Gephi μέσω των Statistics έχουμε τις εξής τιμές για τη μετρική αυτή.
+	\vspace{12pt}
 	\begin{center}
 		\begin{adjustbox}{valign=t}
 			\includegraphics[width=0.34\textwidth]{photos-files/section7/closeness_centrality1.JPG}
@@ -287,20 +288,17 @@
 		\end{adjustbox}
 	\end{center}
 	
+	\newpage
+	Παρατηρόντας τις πιο πάνω τιμές βλέπουμε πως υπάρχει μια κατανομή για το Closeness Centrality των καναλιών του δικτύου μας. Έτσι για να καταλάβουμε καλύτερα τι συμβαίνει μπορούμε να δούμε τις τιμές αυτές μέσω του ακόλουθου διαγράμματος.
 	\vspace{12pt}
-	\textcolor{red}{omadopoihsa tes times sta 2 simantikotera psifia ARA enna thelei na kamw llio edit to chart}
 	
 	\begin{center}
 		\includegraphics[width=0.7\textwidth]{photos-files/section7/bar_chart_for_7.3.JPG}
 	\end{center}
+	Βλέπουμε λοιπόν πως υπάρχει μια ομαδοποίηση των κόμβων μεταξύ των τιμών 0.48 και 0.51. Αντίθετα όμως, μόνο δύο κόμβοι έχουν υψηλές τιμές της τάξης των 0.91 και 1.0. Άρα αμέσως καταλαβαίνουμε οτι τα κανάλια που έχουν πιο σημαντικό ρόλο στο δίκτυο μας είναι αυτα με 0.91 και 1.0 με το όνομα αυτων να ειναι Samsung και Samsung Australia αντιστοιχα. Στο σημείο αυτό, να σημειωθεί οτι υπάρχουν αρκετά κανάλια τα οποία έχουν μηδενικό Closeness Centrality αφού είναι κανάλια τα οποία είναι featured channels άλλων καναλιών ενω ταυτόχρονα τα κανάλια αυτά δεν εχουν δικά τους featured channels.
 	
 	
-	
-	
-	
-	
-	
-	
+	\newpage
 	\subsection{Eigenvector centrality}
 	
 	
