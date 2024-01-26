@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  26 JAN 2024 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  26 JAN 2024 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ File: photos-files/section7/betweenness_centrality1.JPG Graphic file (type jpg)
 <use photos-files/section7/betweenness_centrality1.JPG>
 Package pdftex.def Info: photos-files/section7/betweenness_centrality1.JPG  use
 d on input line 253.
-(pdftex.def)             Requested size: 184.28651pt x 399.58698pt.
+(pdftex.def)             Requested size: 216.80669pt x 470.10231pt.
 <photos-files/section7/betweenness_centrality2.JPG, id=202, 240.14719pt x 529.2
 2719pt>
 File: photos-files/section7/betweenness_centrality2.JPG Graphic file (type jpg)
@@ -1278,7 +1278,7 @@ File: photos-files/section7/betweenness_centrality2.JPG Graphic file (type jpg)
 <use photos-files/section7/betweenness_centrality2.JPG>
 Package pdftex.def Info: photos-files/section7/betweenness_centrality2.JPG  use
 d on input line 257.
-(pdftex.def)             Requested size: 184.28651pt x 406.13338pt.
+(pdftex.def)             Requested size: 216.80669pt x 477.80208pt.
  [18] [19 <./photos-files/section7/betweenness_centrality1.JPG> <./photos-files
 /section7/betweenness_centrality2.JPG>]
 <photos-files/section7/closeness_centrality_example.JPG, id=218, 428.35031pt x 
@@ -1287,14 +1287,14 @@ File: photos-files/section7/closeness_centrality_example.JPG Graphic file (type
  jpg)
 <use photos-files/section7/closeness_centrality_example.JPG>
 Package pdftex.def Info: photos-files/section7/closeness_centrality_example.JPG
-  used on input line 268.
+  used on input line 270.
 (pdftex.def)             Requested size: 271.0125pt x 146.69919pt.
 <photos-files/section7/array_of_example.JPG, id=219, 501.37312pt x 173.14688pt>
 
 File: photos-files/section7/array_of_example.JPG Graphic file (type jpg)
 <use photos-files/section7/array_of_example.JPG>
 Package pdftex.def Info: photos-files/section7/array_of_example.JPG  used on in
-put line 272.
+put line 274.
 (pdftex.def)             Requested size: 379.41585pt x 131.03552pt.
  [20 <./photos-files/section7/closeness_centrality_example.JPG> <./photos-files
 /section7/array_of_example.JPG>]
@@ -1303,15 +1303,15 @@ put line 272.
 File: photos-files/section7/closeness_centrality1.JPG Graphic file (type jpg)
 <use photos-files/section7/closeness_centrality1.JPG>
 Package pdftex.def Info: photos-files/section7/closeness_centrality1.JPG  used 
-on input line 283.
-(pdftex.def)             Requested size: 184.28651pt x 406.61308pt.
+on input line 285.
+(pdftex.def)             Requested size: 216.80669pt x 478.36833pt.
 <photos-files/section7/closeness_centrality2.JPG, id=225, 235.63031pt x 517.182
 19pt>
 File: photos-files/section7/closeness_centrality2.JPG Graphic file (type jpg)
 <use photos-files/section7/closeness_centrality2.JPG>
 Package pdftex.def Info: photos-files/section7/closeness_centrality2.JPG  used 
-on input line 287.
-(pdftex.def)             Requested size: 184.28651pt x 404.48952pt.
+on input line 289.
+(pdftex.def)             Requested size: 216.80669pt x 475.86862pt.
 
 [21 <./photos-files/section7/closeness_centrality1.JPG> <./photos-files/section
 7/closeness_centrality2.JPG>]
@@ -1319,14 +1319,50 @@ on input line 287.
 File: photos-files/section7/bar_chart_for_7.3.JPG Graphic file (type jpg)
 <use photos-files/section7/bar_chart_for_7.3.JPG>
 Package pdftex.def Info: photos-files/section7/bar_chart_for_7.3.JPG  used on i
-nput line 296.
+nput line 298.
 (pdftex.def)             Requested size: 379.41585pt x 307.9466pt.
  [22 <./photos-files/section7/bar_chart_for_7.3.JPG>]
+<photos-files/section7/eigenvector_entrality_example.JPG, id=235, 545.03625pt x
+ 446.41782pt>
+File: photos-files/section7/eigenvector_entrality_example.JPG Graphic file (typ
+e jpg)
+<use photos-files/section7/eigenvector_entrality_example.JPG>
+Package pdftex.def Info: photos-files/section7/eigenvector_entrality_example.JP
+G  used on input line 310.
+(pdftex.def)             Requested size: 216.80669pt x 177.57625pt.
+<photos-files/section7/eigenvector_entrality_examplev2.JPG, id=236, 622.57594pt
+ x 420.82219pt>
+File: photos-files/section7/eigenvector_entrality_examplev2.JPG Graphic file (t
+ype jpg)
+<use photos-files/section7/eigenvector_entrality_examplev2.JPG>
+Package pdftex.def Info: photos-files/section7/eigenvector_entrality_examplev2.
+JPG  used on input line 314.
+(pdftex.def)             Requested size: 271.0125pt x 183.18459pt.
+ [23 <./photos-files/section7/eigenvector_entrality_example.JPG> <./photos-file
+s/section7/eigenvector_entrality_examplev2.JPG>]
+<photos-files/section7/eigenvector_centrality1.JPG, id=241, 240.14719pt x 520.9
+4624pt>
+File: photos-files/section7/eigenvector_centrality1.JPG Graphic file (type jpg)
+
+<use photos-files/section7/eigenvector_centrality1.JPG>
+Package pdftex.def Info: photos-files/section7/eigenvector_centrality1.JPG  use
+d on input line 324.
+(pdftex.def)             Requested size: 216.80669pt x 470.3258pt.
+<photos-files/section7/eigenvector_centrality2.JPG, id=242, 236.38312pt x 529.9
+8pt>
+File: photos-files/section7/eigenvector_centrality2.JPG Graphic file (type jpg)
+
+<use photos-files/section7/eigenvector_centrality2.JPG>
+Package pdftex.def Info: photos-files/section7/eigenvector_centrality2.JPG  use
+d on input line 328.
+(pdftex.def)             Requested size: 216.80669pt x 486.09952pt.
+ [24 <./photos-files/section7/eigenvector_centrality1.JPG> <./photos-files/sect
+ion7/eigenvector_centrality2.JPG>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[23] (document.aux)
+[25] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1335,10 +1371,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: E32C62930D0D1C56173978AA90B67477;2551.
  ) 
 Here is how much of TeX's memory you used:
- 18052 strings out of 474485
- 314109 string characters out of 5744206
+ 18082 strings out of 474485
+ 315785 string characters out of 5744206
  1932528 words of memory out of 5000000
- 40029 multiletter control sequences out of 15000+600000
+ 40057 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1349,9 +1385,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (24 pages, 2061183 bytes).
+Output written on document.pdf (26 pages, 2231818 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 282 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -250,11 +250,11 @@
 	Αφού καταλάβαμε πως προκύπτει το Betweenness Centrality, μπορούμε με την χρήση του Gephi να το βρούμε αυτόματα για όλους τους κόμβους μέσω των Statistics.
 	\begin{center}
 		\begin{adjustbox}{valign=t}
-			\includegraphics[width=0.34\textwidth]{photos-files/section7/betweenness_centrality1.JPG}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/betweenness_centrality1.JPG}
 		\end{adjustbox}
 		\hfill
 		\begin{adjustbox}{valign=t}
-			\includegraphics[width=0.34\textwidth]{photos-files/section7/betweenness_centrality2.JPG}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/betweenness_centrality2.JPG}
 		\end{adjustbox}
 	\end{center}
 	\vspace{12pt}
@@ -263,7 +263,9 @@
 	
 	\newpage
 	\subsection{Closeness Centrality}
-	Το Closeness Centrality είναι μια μετρηκη που αποσκοπέι στο πόσο κοντά είναι ένας κόμβος σε όλους τους άλλους. Να σημειωθεί επίσης οτι μικρότεροι αριθμοί δείχνουν πως ένας κόμβος έχει υψηλό Closeness Centrality. Τον τρόπο με τον οποίο μπορούμε να υπολογίσουμε τη μετρικλη αυτή σε ένα κατευθυνόμενο δίκτυο όπως το δικό μας μπορούμε να τον δούμε μέσω του ακόλουθου παραδείγματος.
+	Το Closeness Centrality είναι μια μετρηκη που αποσκοπέι στο πόσο κοντά είναι ένας κόμβος σε όλους τους άλλους. Να σημειωθεί επίσης οτι μικρότεροι αριθμοί δείχνουν πως ένας κόμβος έχει υψηλό Closeness Centrality με τις τιμές να κειμένονται απο 0 εως 1.
+	\par
+	Τον τρόπο με τον οποίο μπορούμε να υπολογίσουμε τη μετρικλη αυτή σε ένα κατευθυνόμενο δίκτυο όπως το δικό μας μπορούμε να τον δούμε μέσω του ακόλουθου παραδείγματος.
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{photos-files/section7/closeness_centrality_example.JPG}
 	\end{center}
@@ -280,11 +282,11 @@
 	\vspace{12pt}
 	\begin{center}
 		\begin{adjustbox}{valign=t}
-			\includegraphics[width=0.34\textwidth]{photos-files/section7/closeness_centrality1.JPG}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/closeness_centrality1.JPG}
 		\end{adjustbox}
 		\hfill
 		\begin{adjustbox}{valign=t}
-			\includegraphics[width=0.34\textwidth]{photos-files/section7/closeness_centrality2.JPG}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/closeness_centrality2.JPG}
 		\end{adjustbox}
 	\end{center}
 	
@@ -300,6 +302,50 @@
 	
 	\newpage
 	\subsection{Eigenvector Centrality}
+	Το Eigenvector Centrality είναι ένα μετρο με το οποίο μπορούμε να καταλάβουμε την επηροή που μποροεί να έχει ένας κόμβος μέσα στο δίκτυο μας. Δείχνει δηλαδή πόσο σημαντικός είναι ένας κόμβος ανάλογα με το ποσο σημαντικοι είναι και οι κόμβοι-γειτονες που έχει.
+	\par
+	Ο τρόπος με τον οποίο μπορούμε να υπολογίσουμε τη μετρική αυτή σε ένα κατευθυνόμενο δίκτυο όπως το δικό μας μπορούμε να τον δούμε μέσω του εξής παραδείγματος. Έστω το ακόλουθο δίκτυο:
+	% https://www.youtube.com/watch?v=IIBOT3SjJZE
+	\begin{center}
+		\includegraphics[width=0.4\textwidth]{photos-files/section7/eigenvector_entrality_example.JPG}
+	\end{center}
+	Αρχικά κατασκεύαζουμε το γραμμικό σύστημα(πίνακας δύο διαστάσεων) για το δίκτυο μας όπου βάζουμε τους αριθμούς 0 ή 1 εφόσον υπάρχει μονοπάτι που συνδέει τους κόμβους του δικτύου μας. Για παράδειγμα για τον κόμβο Reza η πρώτη στήλη στο γραμμικό μας σύστημα θα ειναι 0(θεωρούμε πως δεν υπάρχει μονοπατι απο κάποιο κόμβο προς τον εαυτό του), 1(για το μονοπάτι Reza προς Sofia) και 1(για το μονοπάτι Reza προς Luke). Έτσι, με αυτό το τρόπο προκύπτει ο ακόλουθος πίνακας.
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{photos-files/section7/eigenvector_entrality_examplev2.JPG}
+	\end{center}
+	
+	\newpage
+	Στη συνέχεια χρησιμοποιόντας αλγόριθμους γραμμικής άλγεβρας βρίκουμε το ιδιοδιάνυσμα που αντιστοιχεί στη μεγαλύτερη ιδιοτιμή του πίνακα που βρήκαμε στο προηγούμενο βήμα, κάνουμε κανονικοποίηση και έτσι προκύπτουν οι τιμες για το Eigenvector Centrality του κάθε κόμβου.
+	
+	\vspace{12pt}
+	Τώρα με την βοήθεια του Gephi για το Eigenvector Centrality έχουμε τις εξής τιμές.
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/eigenvector_centrality1.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.4\textwidth]{photos-files/section7/eigenvector_centrality2.JPG}
+		\end{adjustbox}
+	\end{center}
+	
+	\newpage
+	Αρχικά, το πρωτο πραγμα που βλέπουμε είναι πως δεν υπάρχουν μηδενικές τιμές σε αντίθεση με το Closeness Centrality αφου λαμβανοντας υπόψην τον αλγόριθμο με τον οποίο υπολογίζεται το Eigenvector Centrality όλοι οι κόμβοι είναι ενωμένοι με όλους έστω και με μία μονο ακμή.
+	\par
+	Πέραν απο το πιο πάνω, το πλέον σημαντικο που μπορουμε να πούμε για τα αποτελέσματα αυτά είναι πως υπάρχει μια μεγάλη αριθμιτική διαφορά μεαξυ του πρώτου σε σκόρ καναλιού και όλων των υπολοίπων. Στη πρώτη θέση λοιπόν βρίσκεται ξανα το κανάλι Samsung με σκόρ 1 ενώ τα υπόλοιπα κανάλια ξεκινουν απο σκόρ 0.46 και κάτω. Αυτο μας δείχνει οτι οι γείτονες των κόμβων μας είναι το ίδιο περίπου ισχυροι με μικρη διαφορα κάθε φορα που ολοενα και μικραίνει. Άρα φαίνεται πως επηρεάζονται περίπου το ίδιο κανάλια που βρισκονται ως featured channels σε άλλα αφού ο σκοπός είναι να φαίνονται όλα τα κανάλια χωρις να υπάρχει κάποιος ιδιαίτερος λόγος διαχωρισμού προτιμήσεων αφου στο δίκτυο που μελετάμε όλες οι συνδέσεις είναι με βαση το κρητηριο των featured channels.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 %	\textcolor{red}{vlepe gephi file pou exw gia Eigenvector Centrality(ekama idi run thn malakia). ivra pws na to kamw meso tou vidtra}
 	% https://www.youtube.com/watch?v=2bLD7yvy6jQ
