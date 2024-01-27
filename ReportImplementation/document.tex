@@ -340,20 +340,40 @@
 	\newpage
 	\section{Clustering Effects}
 	\subsection{Average Clustering Coefficient}
-	Το Average Clustering Coefficient υποδεικνύει πως είναι ενσωματωμένοι οι κόμβοι στο δίκτυο σε σχέση με τους γειτονικούς τους κόμβους και υπολογίζεται ως εξής. Επιλέγουμε έναν τυχαό κόμβο όπου στη συnέχεια επιλέγουμε 2 γείτονες του τυχαία και στη συνέχεια ελέγχουμε εαν είναι συνδεδεμένοι. Αθροίζοντας τα αποτελέσματα της πάραπανω διαδικασίας για όλους τους κόμβους, διαιρούμε με το πλήθος των κόμβων και έτσι βρίσκουμε το επιθυμητό αποτέλεσμα. Στην περίπτωση μας με τη χρήση του Gephi βρίσκουμε πως το Average Clustering Coefficient για το δίκτυο μας είναι 0.311.
+	Το Average Clustering Coefficient μας λέει την πιθανότητα με την οποία 2 γειτονικοι κόμβοι τυχαία επιλεγμένοι ενός τυχαίου κόμβου να είναι συνδεδεμένου. Ο τρόπος με τον οποίο υπολογίζουμε τη μετρική αυτή γίνεται ως εξής. Επιλέγουμε έναν τυχαό κόμβο όπου στη συnέχεια επιλέγουμε 2 γείτονες του τυχαία και στη συνέχεια ελέγχουμε εαν είναι συνδεδεμένοι. Αθροίζουμε τα αποτελέσματα της πάραπανω διαδικασίας για όλους τους κόμβους, διαιρούμε με το πλήθος των κόμβων και έτσι βρίσκουμε το επιθυμητό αποτέλεσμα. Στην περίπτωση μας με τη χρήση του Gephi βρίσκουμε πως το Average Clustering Coefficient για το δίκτυο μας είναι 0.311.
 	\begin{center}
 		\includegraphics[width=0.4\textwidth]{photos-files/section8/average_clustering_coefficient.JPG}
-	\end{center}	
+	\end{center}
 	
 	\newpage
 	\subsection{Number of Triangles}
+	Ο όρος "Triangle" αναφαίρεται σε ένα σύνολο απο 3 κόμβους όπου κάθε κόμβος συνδέεαι με τους άλλους δύο. Για να υπολογίσουμε των συνολικό αριθμό τέτοιων συνόλων αρχικά θα πρέπει να θεωρήσουμε πως το δίκτυο μας είναι μη κατευθυνόμενο. Επομένως, μεσω του Gephi θα πρέπει να επιλέξουμε την αντίστοιχη επιλογή για μη κατευθυνόμενο γράφο. Τα αποτελέσματα λοιπόν φαίνονται πιο κάτω.
+	\begin{center}
+		\includegraphics[width=0.4\textwidth]{photos-files/section8/number_of_triangles.JPG}
+	\end{center}
+	Απο το στιγμιότυπο που πήραμε απο το Gephi βλέπουμε αρχικά την ύπαρξη \textbf{63 Triangles}. Επίσης, παρατηρούμε πως έχει αλλάξει το Average Clustering Coefficient σε σχέση με πριν. Αυτό οφείλεται στο γεγονός ότι ο γράφος μας είναι μη κατευθυνόμενος με αποτέλεσμα να προσμετρούνται όλες οι συνδέσεις ανεξαρτήτος κατεύθυνσης. Επομένως 2 τυχαίοι γείτονες ενός τυχαίου κόμβου θα συνδέονται μεταξύ τους με πιθανότητα 0.721 έναντι 0.311 που ήταν προηγουμένως.
+	\newpage
+	Πιο κάτω φαίνονται αναλυτικότερα οι τιμες των Triangles ανα κανάλι.
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.4\textwidth]{photos-files/section8/num_of_triangles_1.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.4\textwidth]{photos-files/section8/num_of_triangles_2.JPG}
+		\end{adjustbox}
+	\end{center}
+	\par
+	Στο σημείο αυτό σκεπτόμενοι το γεγονός οτι παρόλο που εχουμε ενα κατευθυνόμενο δίκτυο έχουμε παράγει τα δεδομενα αυτα χωρις να λάβουμε υπόψην την κατέυθηνση των ακμών. Κατι τέτοιο κάναμε μονο στην ενότητα 7 όταν υπολογίσαμε το Total Degree αφου αθροίσαμε το In-Degree με το Out-Degree. Έτσι μέσω αυτής της παρατήρησης ως αφορμή εαν \textcolor{red}{enikserw ti na grapsw dame...an grapsw thn idia paratirisi me ton allo en telia antigrafh meta opote na skeftw kati kalo}
 	
 	
-	
+	\newpage
 	\subsection{Clustering Coefficient Distribution}
+	\textcolor{red}{sto idio  arceio gephi pou exw gia ta Triangles exw j gia touto. opote sto gephi na fortoso to idio me prin gia na fkalw ta screenshots}
 	
-	
+	\newpage
 	\subsection{Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}
+	
 	\label{chap:clustering_effects_8}
 	
 	

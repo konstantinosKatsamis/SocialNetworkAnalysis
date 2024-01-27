@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  27 JAN 2024 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  27 JAN 2024 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1367,11 +1367,45 @@ Package pdftex.def Info: photos-files/section8/average_clustering_coefficient.J
 PG  used on input line 345.
 (pdftex.def)             Requested size: 216.80669pt x 57.88527pt.
  [26 <./photos-files/section8/average_clustering_coefficient.JPG>]
+<photos-files/section8/number_of_triangles.JPG, id=283, 152.82094pt x 106.14656
+pt>
+File: photos-files/section8/number_of_triangles.JPG Graphic file (type jpg)
+<use photos-files/section8/number_of_triangles.JPG>
+Package pdftex.def Info: photos-files/section8/number_of_triangles.JPG  used on
+ input line 352.
+(pdftex.def)             Requested size: 216.80669pt x 150.59636pt.
+
+Overfull \hbox (6.64226pt too wide) in paragraph at lines 354--355
+\LGR/LinuxLibertineT-TLF/m/n/12 Apo to stig-miì-tupo pou p rame apo to \OT1/Lin
+uxLibertineT-TLF/m/n/12 Gephi \LGR/LinuxLibertineT-TLF/m/n/12 blèpoume ar-qikˆ 
+thn Ôparxh \OT1/LinuxLibertineT-TLF/b/n/12 63 Tri-an-gles\OT1/LinuxLibertineT-T
+LF/m/n/12 . \LGR/LinuxLibertineT-TLF/m/n/12 EpÐshc\OT1/LinuxLibertineT-TLF/m/n/
+12 , \LGR/LinuxLibertineT-TLF/m/n/12 parathroÔme
+ []
+
+[27 <./photos-files/section8/number_of_triangles.JPG>]
+<photos-files/section8/num_of_triangles_1.JPG, id=288, 268.75406pt x 533.74406p
+t>
+File: photos-files/section8/num_of_triangles_1.JPG Graphic file (type jpg)
+<use photos-files/section8/num_of_triangles_1.JPG>
+Package pdftex.def Info: photos-files/section8/num_of_triangles_1.JPG  used on 
+input line 359.
+(pdftex.def)             Requested size: 216.80669pt x 430.5793pt.
+<photos-files/section8/num_of_triangles_2.JPG, id=289, 274.02374pt x 517.18219p
+t>
+File: photos-files/section8/num_of_triangles_2.JPG Graphic file (type jpg)
+<use photos-files/section8/num_of_triangles_2.JPG>
+Package pdftex.def Info: photos-files/section8/num_of_triangles_2.JPG  used on 
+input line 363.
+(pdftex.def)             Requested size: 216.80669pt x 409.20078pt.
+ [28 <./photos-files/section8/num_of_triangles_1.JPG> <./photos-files/section8/
+num_of_triangles_2.JPG>]
+[29]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[27] (document.aux)
+[30] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1380,10 +1414,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 7561F7F09330BFD9CCEF147119B85150;3755.
  ) 
 Here is how much of TeX's memory you used:
- 18102 strings out of 474485
- 316406 string characters out of 5744206
+ 18126 strings out of 474485
+ 317502 string characters out of 5744206
  1934528 words of memory out of 5000000
- 40070 multiletter control sequences out of 15000+600000
+ 40091 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1394,9 +1428,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (28 pages, 2250793 bytes).
+Output written on document.pdf (31 pages, 2367329 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 347 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 362 words of extra memory for PDF output out of 10000 (max. 10000000)
 
