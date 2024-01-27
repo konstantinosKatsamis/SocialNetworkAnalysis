@@ -16,4 +16,9 @@
 \contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{18}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Closeness Centrality}{20}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Eigenvector Centrality}{23}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Clustering Effects}{26}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Average Clustering Coefficient}{26}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Number of Triangles}{26}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Clustering Coefficient Distribution}{26}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}{26}{subsection.8.4}%
 \contentsfinish 
