@@ -20,5 +20,5 @@
 \contentsline {subsection}{\numberline {8.1}Average Clustering Coefficient}{26}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Number of Triangles}{27}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Clustering Coefficient Distribution}{29}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}{30}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.4}Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}{33}{subsection.8.4}%
 \contentsfinish 

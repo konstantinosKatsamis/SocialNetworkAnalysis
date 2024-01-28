@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  27 JAN 2024 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  28 JAN 2024 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1400,12 +1400,52 @@ input line 363.
 (pdftex.def)             Requested size: 216.80669pt x 409.20078pt.
  [28 <./photos-files/section8/num_of_triangles_1.JPG> <./photos-files/section8/
 num_of_triangles_2.JPG>]
-[29]
+<photos-files/section8/distribution.JPG, id=294, 440.39531pt x 296.60812pt>
+File: photos-files/section8/distribution.JPG Graphic file (type jpg)
+<use photos-files/section8/distribution.JPG>
+Package pdftex.def Info: photos-files/section8/distribution.JPG  used on input 
+line 374.
+(pdftex.def)             Requested size: 379.41585pt x 255.54869pt.
+<photos-files/section8/distr_values1.JPG, id=295, 240.14719pt x 522.45187pt>
+File: photos-files/section8/distr_values1.JPG Graphic file (type jpg)
+<use photos-files/section8/distr_values1.JPG>
+Package pdftex.def Info: photos-files/section8/distr_values1.JPG  used on input
+ line 380.
+(pdftex.def)             Requested size: 216.80669pt x 471.68512pt.
+<photos-files/section8/distr_values2.JPG, id=296, 237.88875pt x 530.73282pt>
+File: photos-files/section8/distr_values2.JPG Graphic file (type jpg)
+<use photos-files/section8/distr_values2.JPG>
+Package pdftex.def Info: photos-files/section8/distr_values2.JPG  used on input
+ line 384.
+(pdftex.def)             Requested size: 216.80669pt x 483.72076pt.
+
+[29 <./photos-files/section8/distribution.JPG>] [30 <./photos-files/section8/di
+str_values1.JPG> <./photos-files/section8/distr_values2.JPG>]
+<photos-files/section8/mikro.png, id=306, 606.76688pt x 496.85625pt>
+File: photos-files/section8/mikro.png Graphic file (type png)
+<use photos-files/section8/mikro.png>
+Package pdftex.def Info: photos-files/section8/mikro.png  used on input line 39
+2.
+(pdftex.def)             Requested size: 325.2183pt x 266.31204pt.
+<photos-files/section8/meseo.png, id=307, 609.77812pt x 493.845pt>
+File: photos-files/section8/meseo.png Graphic file (type png)
+<use photos-files/section8/meseo.png>
+Package pdftex.def Info: photos-files/section8/meseo.png  used on input line 39
+7.
+(pdftex.def)             Requested size: 325.2183pt x 263.3944pt.
+ [31 <./photos-files/section8/mikro.png> <./photos-files/section8/meseo.png>]
+<photos-files/section8/megalo.png, id=314, 609.77812pt x 519.44063pt>
+File: photos-files/section8/megalo.png Graphic file (type png)
+<use photos-files/section8/megalo.png>
+Package pdftex.def Info: photos-files/section8/megalo.png  used on input line 4
+02.
+(pdftex.def)             Requested size: 325.2183pt x 277.04594pt.
+ [32 <./photos-files/section8/megalo.png>]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[30] (document.aux)
+[33] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1414,10 +1454,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 7561F7F09330BFD9CCEF147119B85150;3755.
  ) 
 Here is how much of TeX's memory you used:
- 18126 strings out of 474485
- 317502 string characters out of 5744206
+ 18171 strings out of 474485
+ 319281 string characters out of 5744206
  1934528 words of memory out of 5000000
- 40091 multiletter control sequences out of 15000+600000
+ 40133 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1428,9 +1468,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (31 pages, 2367329 bytes).
+Output written on document.pdf (34 pages, 3087494 bytes).
 PDF statistics:
- 354 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
