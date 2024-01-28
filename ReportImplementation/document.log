@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  28 JAN 2024 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  29 JAN 2024 01:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1441,11 +1441,25 @@ Package pdftex.def Info: photos-files/section8/megalo.png  used on input line 4
 02.
 (pdftex.def)             Requested size: 325.2183pt x 277.04594pt.
  [32 <./photos-files/section8/megalo.png>]
+<photos-files/section8/8.4_with_2_edges.JPG, id=320, 615.0478pt x 265.74281pt>
+File: photos-files/section8/8.4_with_2_edges.JPG Graphic file (type jpg)
+<use photos-files/section8/8.4_with_2_edges.JPG>
+Package pdftex.def Info: photos-files/section8/8.4_with_2_edges.JPG  used on in
+put line 410.
+(pdftex.def)             Requested size: 379.41585pt x 163.93568pt.
+ [33 <./photos-files/section8/8.4_with_2_edges.JPG>]
+<photos-files/section8/8.4_with_3_edges.JPG, id=325, 612.78937pt x 264.99pt>
+File: photos-files/section8/8.4_with_3_edges.JPG Graphic file (type jpg)
+<use photos-files/section8/8.4_with_3_edges.JPG>
+Package pdftex.def Info: photos-files/section8/8.4_with_3_edges.JPG  used on in
+put line 419.
+(pdftex.def)             Requested size: 379.41585pt x 164.0697pt.
+
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[33] (document.aux)
+[34 <./photos-files/section8/8.4_with_3_edges.JPG>] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1454,10 +1468,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 7561F7F09330BFD9CCEF147119B85150;3755.
  ) 
 Here is how much of TeX's memory you used:
- 18171 strings out of 474485
- 319281 string characters out of 5744206
+ 18186 strings out of 474485
+ 319972 string characters out of 5744206
  1934528 words of memory out of 5000000
- 40133 multiletter control sequences out of 15000+600000
+ 40147 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1468,9 +1482,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (34 pages, 3087607 bytes).
+Output written on document.pdf (35 pages, 3131195 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 392 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 402 words of extra memory for PDF output out of 10000 (max. 10000000)
 
