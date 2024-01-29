@@ -1,24 +1,30 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Εισαγωγή}{2}{section.1}%
-\contentsline {section}{\numberline {2}Λήψη δεδομένων}{2}{section.2}%
-\contentsline {section}{\numberline {3}Γραφική Αναπαράσταση Δικτύου}{3}{section.3}%
-\contentsline {section}{\numberline {4}Βασικά στοιχεία Δικτύου}{6}{section.4}%
-\contentsline {section}{\numberline {5}Component Measures}{7}{section.5}%
-\contentsline {section}{\numberline {6}Degree Measures}{9}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Maximum Degree}{9}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Average Node Degree}{9}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Degree Distribution}{10}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}In-Degree}{10}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}Out-Degree}{12}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{15}{subsubsection.6.3.3}%
-\contentsline {section}{\numberline {7}Centrality measures}{18}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Degree}{18}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{18}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Closeness Centrality}{20}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Eigenvector Centrality}{23}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Clustering Effects}{26}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Average Clustering Coefficient}{26}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Number of Triangles}{27}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Clustering Coefficient Distribution}{29}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}{33}{subsection.8.4}%
+\contentsline {section}{\numberline {1}Εισαγωγή}{3}{section.1}%
+\contentsline {section}{\numberline {2}Λήψη δεδομένων}{3}{section.2}%
+\contentsline {section}{\numberline {3}Γραφική Αναπαράσταση Δικτύου}{4}{section.3}%
+\contentsline {section}{\numberline {4}Βασικά στοιχεία Δικτύου}{7}{section.4}%
+\contentsline {section}{\numberline {5}Component Measures}{8}{section.5}%
+\contentsline {section}{\numberline {6}Degree Measures}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Maximum Degree}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Average Node Degree}{10}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Degree Distribution}{11}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}In-Degree}{11}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Out-Degree}{13}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{16}{subsubsection.6.3.3}%
+\contentsline {section}{\numberline {7}Centrality measures}{19}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Degree}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{19}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Closeness Centrality}{21}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Eigenvector Centrality}{24}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Clustering Effects}{27}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Average Clustering Coefficient}{27}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Number of Triangles}{28}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Clustering Coefficient Distribution}{30}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Existence of the Triadic Closure Phenomenon in the Friendship Neighborhood}{34}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Bridges and Local Bridges}{36}{section.9}%
+\contentsline {section}{\numberline {10}Gender and homophily}{38}{section.10}%
+\contentsline {section}{\numberline {11}Graph density}{39}{section.11}%
+\contentsline {section}{\numberline {12}Community structure (modularity)}{40}{section.12}%
+\contentsline {section}{\numberline {13}PageRank}{41}{section.13}%
+\contentsline {section}{\numberline {14}Συμπεράσματα}{42}{section.14}%
 \contentsfinish 
