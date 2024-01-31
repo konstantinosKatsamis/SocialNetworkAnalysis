@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  30 JAN 2024 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  31 JAN 2024 02:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1497,12 +1497,12 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 22A4E1A27643A1254B71EE800D2F1F2F;4640.
+(rerunfilecheck)             Checksum: 9667FAC31B643400287849902E06817B;4632.
  ) 
 Here is how much of TeX's memory you used:
  18242 strings out of 474485
  321682 string characters out of 5744206
- 1936528 words of memory out of 5000000
+ 1937528 words of memory out of 5000000
  40188 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1514,7 +1514,7 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (44 pages, 3333287 bytes).
+Output written on document.pdf (44 pages, 3333280 bytes).
 PDF statistics:
  465 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
