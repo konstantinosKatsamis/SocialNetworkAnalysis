@@ -472,12 +472,135 @@
 	\begin{center}
 		\includegraphics[width=0.8\textwidth]{photos-files/section12/eisagogi_modularity_twn_statistics.JPG}
 	\end{center}
-	Όπως βλέπουμε, υπάρχουν ορισμένες επιλογές οι οποίες μπορούν να ληφθουν υπόψην όπως το randomize, το βάρος των ακμών, το Resolution και η αρχική τιμή απο την οποία θα ξεκινάει η αρίθμηση των κόμβων για τη μετρικη που θα παραχθεί. Στα πλαίσια της ανάλυσης μας ενδιαφέρει το Resolution αφου αυτό είναι που διαμορφώνει το πλήθος των communities ανάλογα με την τιμή που θα πάρει(μικροτερες τιμες έχουν αποτέλεσμα πιο πολλα communities και μεγαλύτερες τιμες λιγότερα communities). Να σημειωθεί επίσης πως το βάρος των ακμών είναι ίδιο σε όλο μας το δίκτυο ενω ο βαθμος στον οποίο επηρεαζει τα αποτελέσματα μας είναι ελάχιστος εως μηδαμινος σύμφωνα με μετρήσεις που έχουν πραγματοποιηθεί. Επομένως αφού το Resolution καθορίζει τα αποτελέσματα μας, μπορούμε να κάνουμε κάποιες δοκιμές για να καταλάβουμε αρχικά πως διαμορφώνονται τα communities ωστε στη συνέχεια να βρούμε ιδανικές τιμές απο τις οποίες να μπορούμε να βγάλουμε κάποια συμπεράσματα.
+	Όπως βλέπουμε, υπάρχουν ορισμένες επιλογές οι οποίες μπορούν να ληφθουν υπόψην όπως το randomize, το βάρος των ακμών, το Resolution και η αρχική τιμή απο την οποία θα ξεκινάει η αρίθμηση των κόμβων για τη μετρικη που θα παραχθεί. Στα πλαίσια της ανάλυσης μας ενδιαφέρει το Resolution αφου αυτό είναι που διαμορφώνει το πλήθος των communities ανάλογα με την τιμή που θα πάρει(μικροτερες τιμες έχουν αποτέλεσμα πιο πολλα communities και μεγαλύτερες τιμες λιγότερα communities). Να σημειωθεί επίσης πως το βάρος των ακμών είναι ίδιο σε όλο μας το δίκτυο ενω ο βαθμος στον οποίο επηρεαζει τα αποτελέσματα μας είναι ελάχιστος εως μηδαμινος σύμφωνα με μετρήσεις που έχουν πραγματοποιηθεί. Επομένως αφού το Resolution καθορίζει τα αποτελέσματα μας, μετα απο αρκετές δοκιμασίες που κάναμε για να καταλάβουμε πως διαμορφώνονται τα communities καταλήξαμε στα πιο κάτω αποτελέσματα.
+	
+	\textcolor{red}{ara mporoume na dume pws eksaplonontai oi tasis j ta new dedomena klp apo xora se xora j meta se olokliro to kosmo}
 	
 	\newpage
-	Οι πρώτες τιμές που δοκιμάσαμε για να δούμε πως αλλάζουν τα αποτελέσματα είναι οι εξής:
+	\subsection{Community Structure - Modularity Resolution 0.1}
+	Με Resolution 0.1 έχουμε Modularity 0.283 ενώ δημιουργoύνται 20 communities διαφόρων μεγεθών καθώς τα μικρότερα αποτελούνται απο 1 μονο κόμβο(7 communities) ενω το μεγαλύτερο απο 26. Όπως βλέπουμε υπάρχει μεγάλη διαφορά στο πλήθος των communities καθώς επίσης και μεγάλη κατανομή.
+	\vspace{12pt}
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.25\textwidth]{photos-files/section12/0.1/report.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.5\textwidth]{photos-files/section12/0.1/no_label_layout.png}
+		\end{adjustbox}
+	\end{center}
+	
+	Να πούμε επίσης πως σε μικρές ομαδοποιήσεις τα κανάλια απο τα οποία αποτελόυνται είναι απο χώρες που βρίσκονται γεωγραφικά κοντά ή στην ίδια ήπειρο όπως για παράδειγμα:
+	
+	\vspace{12pt}
+	\vspace{12pt}
+	\vspace{12pt}
+	\begin{minipage}{0.6\textwidth}
+		Το community με ροζ χρώμα αποτελείται απο τα κανάλια Samsung Latvia, Samsung Lithuania, Samsung Estonia.
+			%\begin{center}
+				%\includegraphics[width=0.8\textwidth]{photos-files/section4/ate.JPG}
+			%\end{center}
+	\end{minipage}
+	\hspace{0.05\textwidth}
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[width=1.0\textwidth]{photos-files/section12/0.1/lith_est_latv_community.png}
+	\end{minipage}
+	
+	\vspace{12pt}
+	\vspace{12pt}
+	\vspace{12pt}
+	\begin{minipage}{0.6\textwidth}
+		Το community με μπλε χρώμα αποτελείται απο τα κανάλια Samsung Switzerland, Samsung Deutschland(Γερμανία), Samsung Osterreich(Αυστρία).
+		%\begin{center}
+		%\includegraphics[width=0.8\textwidth]{photos-files/section4/ate.JPG}
+		%\end{center}
+	\end{minipage}
+	\hspace{0.05\textwidth}
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[width=1.0\textwidth]{photos-files/section12/0.1/swi_ost_deu_community.png}
+	\end{minipage}
+	
+	\vspace{12pt}
+	\vspace{12pt}
+	\vspace{12pt}
+	\begin{minipage}{0.6\textwidth}
+		Το community με πράσινο χρώμα αποτελείται απο τα κανάλια Samsung New Zealand, Samsung Singapore, Samsung Malaysia, Samsung Hong Kong, Samsung Taiwan, Samsung Philippines, Samsung Thailand και Samsung Indonesia. Τα κανάλια αυτά είναι απο χώρες οι οποίες μπορει να μην είναι τόσο κοντά όπως στις προηγούμενες περιπτώσες που είδαμε αλλά ανήκουν σχεδόν όλες στην ίδια ήπειρο εκτός απο την Νεα Ζηλανδία.
+		%\begin{center}
+		%\includegraphics[width=0.8\textwidth]{photos-files/section4/ate.JPG}
+		%\end{center}
+	\end{minipage}
+	\hspace{0.05\textwidth}
+	\begin{minipage}{0.3\textwidth}
+		\includegraphics[width=1.0\textwidth]{photos-files/section12/0.1/asia_community.png}
+	\end{minipage}
+	
+	%\vspace{12pt}
+	%\vspace{12pt}
+	%\vspace{12pt}
+	%\begin{minipage}{0.6\textwidth}
+		%This is some text that you want to have next to the picture. You can write as much text as you need %within this minipage.
+	%\end{minipage}
+	%\hspace{0.05\textwidth}
+	%\begin{minipage}{0.3\textwidth}
+		%\includegraphics[width=0.5\textwidth]{example-image-a}
+	%\end{minipage}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	\newpage
+	\subsection{Community Structure - Modularity Resolution 0.5}
+	
+	
+	
+	
+	
+	
+	\newpage
+	\subsection{Community Structure - Modularity Resolution 0.9}
+	Με Modularity Resolution 0.9 δημιουργύνται 6 communities με πλήθος κόμβων 3 και 35 στο μκρότερο και μεγαλύτερο community αντίστοιχα.
+	\begin{center}
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.25\textwidth]{photos-files/section4/ate.JPG}
+		\end{adjustbox}
+		\hfill
+		\begin{adjustbox}{valign=t}
+			\includegraphics[width=0.5\textwidth]{photos-files/section4/ate.JPG}
+		\end{adjustbox}
+	\end{center}
+	
+	Απο τα πιο πάνω δεν μπορούμε να πούμε πολλά, αλλά σίγουρα παρατηρούμε πως σε ορισμένα communities εξακολουθει να υπάρχει ο ίδιος αριθμός καναλιών. Αφού λοιπόν απο περιέργεια ανατρέξαμε στα ονόματα των κόμβων είδαμε πως τα κανάλια Samsung Latvia, Samsung Lithuania και Samsung Estonia είναι και στις δύο περιπτώσεις στο ίδιο community χωρις να επεβένουν άλλοι κόμβοι(community με χρυσό χρώμα).
 	
 	\textcolor{red}{na pw  gia 0, 1, j meta na pw oti epeksa me diafores ospou j ekateliksa stes tade j meta na ivrw times gia na valw}
+	
 	\label{chap:community_structure_(modularity)_12}
 	
 	
