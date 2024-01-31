@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  31 JAN 2024 02:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  31 JAN 2024 18:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1486,12 +1486,22 @@ Package pdftex.def Info: photos-files/section11/our_sparse_graph.JPG  used on i
 nput line 459.
 (pdftex.def)             Requested size: 298.1154pt x 279.22202pt.
  [39 <./photos-files/section11/density.JPG> <./photos-files/section11/our_spars
-e_graph.JPG>] [40] [41] [42]
+e_graph.JPG>] [40]
+<photos-files/section12/eisagogi_modularity_twn_statistics.JPG, id=395, 545.036
+25pt x 294.34969pt>
+File: photos-files/section12/eisagogi_modularity_twn_statistics.JPG Graphic fil
+e (type jpg)
+<use photos-files/section12/eisagogi_modularity_twn_statistics.JPG>
+Package pdftex.def Info: photos-files/section12/eisagogi_modularity_twn_statist
+ics.JPG  used on input line 473.
+(pdftex.def)             Requested size: 433.62166pt x 234.17755pt.
+ [41 <./photos-files/section12/eisagogi_modularity_twn_statistics.JPG>] [42] [4
+3]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[43] (document.aux)
+[44] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1500,10 +1510,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 9667FAC31B643400287849902E06817B;4632.
  ) 
 Here is how much of TeX's memory you used:
- 18242 strings out of 474485
- 321682 string characters out of 5744206
+ 18250 strings out of 474485
+ 322164 string characters out of 5744206
  1937528 words of memory out of 5000000
- 40188 multiletter control sequences out of 15000+600000
+ 40195 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,117p,2935b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1514,9 +1524,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (44 pages, 3333280 bytes).
+Output written on document.pdf (45 pages, 3360116 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 470 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 475 words of extra memory for PDF output out of 10000 (max. 10000000)
 
