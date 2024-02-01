@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  31 JAN 2024 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  1 FEB 2024 03:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1065,7 +1065,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 ...arity Resolution 0.9}{45}{subsection.12.3}
+l.30 ...arity Resolution 0.9}{46}{subsection.12.3}
                                                   % [1{C:/Users/user/AppData/Lo
 cal/Programs/MiKTeX/fonts/enc/dvips/libertinegc/libtlf-lgr.enc}])
 \tf@toc=\write4
@@ -1535,24 +1535,80 @@ File: photos-files/section12/0.1/asia_community.png Graphic file (type png)
 Package pdftex.def Info: photos-files/section12/0.1/asia_community.png  used on
  input line 534.
 (pdftex.def)             Requested size: 162.60915pt x 131.84409pt.
- [43 <./photos-files/section12/0.1/swi_ost_deu_community.png> <./photos-files/s
-ection12/0.1/asia_community.png>] [44]
+<photos-files/section12/0.1/vorioAfriki_middleEast.png, id=427, 477.28313pt x 3
+17.68687pt>
+File: photos-files/section12/0.1/vorioAfriki_middleEast.png Graphic file (type 
+png)
+<use photos-files/section12/0.1/vorioAfriki_middleEast.png>
+Package pdftex.def Info: photos-files/section12/0.1/vorioAfriki_middleEast.png 
+ used on input line 548.
+(pdftex.def)             Requested size: 162.60915pt x 108.23508pt.
+
+Underfull \hbox (badness 5490) in paragraph at lines 555--559
+[]\LGR/LinuxLibertineT-TLF/m/n/12 To \OT1/LinuxLibertineT-TLF/m/n/12 com-mu-nit
+y \LGR/LinuxLibertineT-TLF/m/n/12 me Ëntono roz qr∏ma apotele–-tai apo ta
+ []
+
+<photos-files/section12/0.1/ameriki_ipiros.png, id=428, 204.765pt x 121.95563pt
+>
+File: photos-files/section12/0.1/ameriki_ipiros.png Graphic file (type png)
+<use photos-files/section12/0.1/ameriki_ipiros.png>
+Package pdftex.def Info: photos-files/section12/0.1/ameriki_ipiros.png  used on
+ input line 562.
+(pdftex.def)             Requested size: 162.60915pt x 96.85374pt.
+[43 <./photos-files/section12/0.1/swi_ost_deu_community.png> <./photos-files/se
+ction12/0.1/asia_community.png> <./photos-files/section12/0.1/vorioAfriki_middl
+eEast.png> <./photos-files/section12/0.1/ameriki_ipiros.png>]
+<photos-files/section12/0.5/report.JPG, id=437, 210.7875pt x 237.88875pt>
+File: photos-files/section12/0.5/report.JPG Graphic file (type jpg)
+<use photos-files/section12/0.5/report.JPG>
+Package pdftex.def Info: photos-files/section12/0.5/report.JPG  used on input l
+ine 590.
+(pdftex.def)             Requested size: 135.50624pt x 152.93068pt.
+<photos-files/section12/0.5/pososta.JPG, id=438, 123.46124pt x 118.19156pt>
+File: photos-files/section12/0.5/pososta.JPG Graphic file (type jpg)
+<use photos-files/section12/0.5/pososta.JPG>
+Package pdftex.def Info: photos-files/section12/0.5/pososta.JPG  used on input 
+line 594.
+(pdftex.def)             Requested size: 162.60915pt x 155.67789pt.
+<photos-files/section12/0.5/no_label_layout.JPG, id=439, 484.05844pt x 447.9234
+3pt>
+File: photos-files/section12/0.5/no_label_layout.JPG Graphic file (type jpg)
+<use photos-files/section12/0.5/no_label_layout.JPG>
+Package pdftex.def Info: photos-files/section12/0.5/no_label_layout.JPG  used o
+n input line 601.
+(pdftex.def)             Requested size: 325.2183pt x 300.95465pt.
+ [44 <./photos-files/section12/0.5/report.JPG> <./photos-files/section12/0.5/po
+sosta.JPG> <./photos-files/section12/0.5/no_label_layout.JPG>]
+<photos-files/section12/0.5/vietnam_j_forum.png, id=444, 317.68687pt x 165.6187
+4pt>
+File: photos-files/section12/0.5/vietnam_j_forum.png Graphic file (type png)
+<use photos-files/section12/0.5/vietnam_j_forum.png>
+Package pdftex.def Info: photos-files/section12/0.5/vietnam_j_forum.png  used o
+n input line 618.
+(pdftex.def)             Requested size: 186.99951pt x 97.49182pt.
+
+Overfull \hbox (24.39037pt too wide) in paragraph at lines 618--619
+[][] 
+ []
+
+[45 <./photos-files/section12/0.5/vietnam_j_forum.png>]
 File: photos-files/section4/ate.JPG Graphic file (type jpg)
 <use photos-files/section4/ate.JPG>
-Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 592.
+Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 655.
 
 (pdftex.def)             Requested size: 135.50624pt x 47.27759pt.
 File: photos-files/section4/ate.JPG Graphic file (type jpg)
 <use photos-files/section4/ate.JPG>
-Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 596.
+Package pdftex.def Info: photos-files/section4/ate.JPG  used on input line 659.
 
 (pdftex.def)             Requested size: 271.0125pt x 94.55698pt.
- [45] [46]
+ [46] [47]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 48.
 See the caption package documentation for explanation.
 
-[47] (document.aux)
+[48] (document.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
@@ -1561,10 +1617,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 7E250E8937869B77090FA2F27CD706C1;5562.
  ) 
 Here is how much of TeX's memory you used:
- 18297 strings out of 474485
- 324231 string characters out of 5744206
+ 18340 strings out of 474485
+ 326381 string characters out of 5744206
  1937528 words of memory out of 5000000
- 40236 multiletter control sequences out of 15000+600000
+ 40278 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,117p,2935b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1575,9 +1631,9 @@ libertine/LinLibertineTB.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on document.pdf (48 pages, 3539373 bytes).
+Output written on document.pdf (49 pages, 3763514 bytes).
 PDF statistics:
- 507 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 524 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 554 words of extra memory for PDF output out of 10000 (max. 10000000)
 
