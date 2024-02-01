@@ -1,0 +1,6 @@
+12:
+	1) https://www.youtube.com/watch?v=7LMnpM0p4cM
+	2) file:///C:/Users/user/Documents/%CE%A0%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B9%CE%BF/%CE%95'%20%CE%95%CE%A4%CE%9F%CE%A3/9thSemester/%CE%91%CE%BD%CE%AC%CE%BB%CF%85%CF%83%CE%B7%20%CE%9A%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD%20%CE%94%CE%B9%CE%BA%CF%84%CF%8D%CF%89%CE%BD/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1/Wrap-up.pdf
+	3) de photos sto(file explorer): C:\Users\user\Documents\AUEB-Projects\SocialNetworkAnalysis\AnalysisImp\section12
+	4) new algorithms for 12: Leiden Algorithm
+	5) chatGPT
