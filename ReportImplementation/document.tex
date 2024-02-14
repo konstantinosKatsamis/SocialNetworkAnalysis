@@ -70,7 +70,7 @@
 	\label{chap:intro_1}
 	
 	\section{Λήψη δεδομένων}
-	Τα δεδομενα για την ανάλυση μας τα πήραμε με τη χρήση του \href{https://labs.polsys.net}{Bernhard Reiner's Tool} χρησιμοποιόντας τα YouTube Data Tools. Αρχικά, χρησιμοποιόντας το link του καναλιου στο YouTube, βρήκαμε το id του καναλιού μέσω του  \href{https://ytdt.digitalmethods.net/mod_channel_info.php}{Channel Info Module}. Έπειταμ με τη χρήση του \href{https://ytdt.digitalmethods.net/mod_channel_info.php}{Channel Network Module}, πήραμε δεδομένα για το δίκτυο του καναλιού. Οι παραμέτροι που χρησιμοποιήθηκαν ηταν το seed(αρχικό κανάλι) με τη χρηση του id με crawl depth ίσον με 2(το crawl depth καθορίζει πόσο βαθιά στο δίκτυο μπορουμε να φτάσουμε. Για παράδειγμα με depth=0 το εργαλείο αυτο επιστρέφει το δίκτυο με τις συσχετίσεις ανάμεσα στα seeds που δίνονται, με dept=1 επιστρέφει τα featured channels που έχει ο χρήστης στο κανάλι του και με depth=2 επιστρέφει τα featured channels που υπάρχουν στα κανάλια που βρήκαμε στο depth=1). Η επιλογή για της εγγραφές δεν λήφθηκε υπόψην δίοτι θέλαμε τα δεδομένα να είναι μόνο με τα featured channels. Μετά απο αυτά τα βήματα το εργαλείο δημιούργησς ενα gdf αρχείο το οποίο φορτώσαμε στο πρόγραμμα Gephi για ανάλυση. Εδω να σημεωθει οτι μέσω του Gephi έγινε έλεγχος των δεδομένων για τυχόν σφάλατα που θα μπορούσαν να επηρεάσουν την ανάλυση μας όπως για παρέδειγμα ο έλεγχος δυπλοτύπων, όπου σε μια περίπτωση υπήρκε διπλότυπο όπου και εντιμετωπίστηκε μέσω του Gephi, ο έλεγχος για null τιμές κ.α. \textcolor{red}{Σε μερικές περιπτώσεις υπήρχαν μη διαθέσιμες τιμές. Για παράδειγμα σε ορισμένους κόμβους, δεν υπήρχε στο αντίστοιχο κελί η χώρα ενώ ήταν γνωστή. Επομένως εισήχθησαν χοιροκίνητα οι τιμές όπου ηταν εφικτό. Σε άλλες περιπτώσεις, τυχόν σφάλματα αντιμετωπίζονται αναλόγως τη δεδομένη στιγμή όπου και αναφέρονται.}
+	Τα δεδομενα για την ανάλυση μας τα πήραμε με τη χρήση του \href{https://labs.polsys.net}{Bernhard Reiner's Tool} χρησιμοποιόντας τα YouTube Data Tools. Αρχικά, χρησιμοποιόντας το link του καναλιου στο YouTube, βρήκαμε το id του καναλιού μέσω του  \href{https://ytdt.digitalmethods.net/mod_channel_info.php}{Channel Info Module}. Έπειταμ με τη χρήση του \href{https://ytdt.digitalmethods.net/mod_channel_info.php}{Channel Network Module}, πήραμε δεδομένα για το δίκτυο του καναλιού. Οι παραμέτροι που χρησιμοποιήθηκαν ηταν το seed(αρχικό κανάλι) με τη χρηση του id με crawl depth ίσον με 2(το crawl depth καθορίζει πόσο βαθιά στο δίκτυο μπορουμε να φτάσουμε. Για παράδειγμα με depth=0 το εργαλείο αυτο επιστρέφει το δίκτυο με τις συσχετίσεις ανάμεσα στα seeds που δίνονται, με dept=1 επιστρέφει τα featured channels που έχει ο χρήστης στο κανάλι του και με depth=2 επιστρέφει τα featured channels που υπάρχουν στα κανάλια που βρήκαμε στο depth=1). Η επιλογή για της εγγραφές δεν λήφθηκε υπόψην δίοτι θέλαμε τα δεδομένα να είναι μόνο με τα featured channels. Μετά απο αυτά τα βήματα το εργαλείο δημιούργησς ενα gdf αρχείο το οποίο φορτώσαμε στο πρόγραμμα Gephi για ανάλυση. Εδω να σημεωθει οτι μέσω του Gephi έγινε έλεγχος των δεδομένων για τυχόν σφάλατα που θα μπορούσαν να επηρεάσουν την ανάλυση μας όπως για παρέδειγμα ο έλεγχος δυπλοτύπων, όπου σε μια περίπτωση υπήρκε διπλότυπο όπου και εντιμετωπίστηκε μέσω του Gephi, ο έλεγχος για null τιμές κ.α. Σε ορισμένες περιπτώσεις υπήρχαν μη διαθέσιμες τιμές. Για παράδειγμα σε ορισμένους κόμβους, δεν υπήρχε στο αντίστοιχο κελί η χώρα ενώ ήταν γνωστή. Έτσι συμβουλευόμενοι τα κανάλια, εντοπίστηκαν και συμπληρώθηκαν.
 	\label{chap:data_fetching_2}
 	
 	
@@ -435,9 +435,22 @@
 	
 	
 	
+	
+	
+	
 	\newpage
 	\section{Gender and homophily}
+	
+	\textcolor{red}{ti einai to gender and himophily}
+	
+	\vspace{12pt}
+	
+	\textcolor{red}{egw na pw antistoixa me jina pou lalei o koumparos alla na kamw anafora sto section12 pou ipirxan grouparismata j na pw gia tes xores pou htan mazi logo glossas klp klp}
+	
 	\label{chap:gender_and_homophily_10}
+	
+	
+	
 	
 	
 	
@@ -455,7 +468,6 @@
 	\textcolor{red}{an prolavw enna pw pramata opos lalei j o koumparos sto diko tou sto sl. 49 j 50 gia to Graph Density}
 	%Στο σημείο αυτό μπορούμε να συγκρίνουμε την πυκνότητα του δικτύου μας 
 	\label{chap:graph_density_11}
-	
 	
 	
 	
@@ -609,35 +621,7 @@
 		\includegraphics[width=1.15\textwidth]{photos-files/section12/0.5/vietnam_j_forum.png}
 	\end{minipage}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 	\newpage
 	\subsection{Community Structure - Modularity Resolution 0.9}
 	Με Resolution 0.9 εχουμε Modularity 0.399 και δημιουργoύνται 7 communities μεγέθους 3, 3, 5, 10, 10, 11 και 34 κόμβων. Ακολουθουν τα ποσοστά σε σχέση με το μέγεθος του δικτύου καθώς επίσης οι μετρήσεις και ο τρόπος διάταξης του συγκεκριμένου community structure.
