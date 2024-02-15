@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  15 FEB 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  15 FEB 2024 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1472,15 +1472,24 @@ n input line 422.
 (pdftex.def)             Requested size: 325.2183pt x 228.26062pt.
  [36 <./photos-files/section9/bridge_example.jpg> <./photos-files/section9/loca
 l_bridge_example.jpg>]
-[37]
-<photos-files/section10/comm.jpg, id=391, 292.84406pt x 269.50688pt>
+<photos-files/section9/BridgingCentralityDistribution.png, id=387, 602.25pt x 4
+01.5pt>
+File: photos-files/section9/BridgingCentralityDistribution.png Graphic file (ty
+pe png)
+<use photos-files/section9/BridgingCentralityDistribution.png>
+Package pdftex.def Info: photos-files/section9/BridgingCentralityDistribution.p
+ng  used on input line 430.
+(pdftex.def)             Requested size: 379.41585pt x 252.95245pt.
+
+[37 <./photos-files/section9/BridgingCentralityDistribution.png>]
+<photos-files/section10/comm.jpg, id=393, 292.84406pt x 269.50688pt>
 File: photos-files/section10/comm.jpg Graphic file (type jpg)
 <use photos-files/section10/comm.jpg>
-Package pdftex.def Info: photos-files/section10/comm.jpg  used on input line 43
-9.
+Package pdftex.def Info: photos-files/section10/comm.jpg  used on input line 44
+2.
 (pdftex.def)             Requested size: 271.0125pt x 249.43799pt.
  [38 <./photos-files/section10/comm.jpg>]
-Overfull \hbox (29.08392pt too wide) in paragraph at lines 444--445
+Overfull \hbox (29.08392pt too wide) in paragraph at lines 447--448
 []\LGR/LinuxLibertineT-TLF/m/n/12 'Allo Ëna paràdeigma tË-toiou e–-douc\OT1/Lin
 uxLibertineT-TLF/m/n/12 , \LGR/LinuxLibertineT-TLF/m/n/12 e–-nai me ta kanàlia 
 \OT1/LinuxLibertineT-TLF/m/n/12 Sam-sung Switzer-land, Sam-sung Deutsch-land(\L
@@ -1488,173 +1497,173 @@ GR/LinuxLibertineT-TLF/m/n/12 Ger\TS1/LinuxLibertineT-TLF/m/n/12 µ\LGR/LinuxLib
 ertineT-TLF/m/n/12 an–a\OT1/LinuxLibertineT-TLF/m/n/12 )
  []
 
-<photos-files/section10/comm2.jpg, id=397, 244.66406pt x 225.09094pt>
+<photos-files/section10/comm2.jpg, id=399, 244.66406pt x 225.09094pt>
 File: photos-files/section10/comm2.jpg Graphic file (type jpg)
 <use photos-files/section10/comm2.jpg>
 Package pdftex.def Info: photos-files/section10/comm2.jpg  used on input line 4
-46.
+49.
 (pdftex.def)             Requested size: 271.0125pt x 249.3387pt.
 [39 <./photos-files/section10/comm2.jpg>]
-<photos-files/section11/density.JPG, id=402, 158.84344pt x 143.03438pt>
+<photos-files/section11/density.JPG, id=404, 158.84344pt x 143.03438pt>
 File: photos-files/section11/density.JPG Graphic file (type jpg)
 <use photos-files/section11/density.JPG>
 Package pdftex.def Info: photos-files/section11/density.JPG  used on input line
- 456.
+ 459.
 (pdftex.def)             Requested size: 162.60915pt x 146.43875pt.
-<photos-files/section11/our_sparse_graph.JPG, id=403, 676.77844pt x 633.86812pt
+<photos-files/section11/our_sparse_graph.JPG, id=405, 676.77844pt x 633.86812pt
 >
 File: photos-files/section11/our_sparse_graph.JPG Graphic file (type jpg)
 <use photos-files/section11/our_sparse_graph.JPG>
 Package pdftex.def Info: photos-files/section11/our_sparse_graph.JPG  used on i
-nput line 459.
+nput line 462.
 (pdftex.def)             Requested size: 298.1154pt x 279.22202pt.
  [40 <./photos-files/section11/density.JPG> <./photos-files/section11/our_spars
 e_graph.JPG>]
-<photos-files/section12/eisagogi_modularity_twn_statistics.JPG, id=408, 545.036
+<photos-files/section12/eisagogi_modularity_twn_statistics.JPG, id=410, 545.036
 25pt x 294.34969pt>
 File: photos-files/section12/eisagogi_modularity_twn_statistics.JPG Graphic fil
 e (type jpg)
 <use photos-files/section12/eisagogi_modularity_twn_statistics.JPG>
 Package pdftex.def Info: photos-files/section12/eisagogi_modularity_twn_statist
-ics.JPG  used on input line 469.
+ics.JPG  used on input line 472.
 (pdftex.def)             Requested size: 433.62166pt x 234.17755pt.
  [41 <./photos-files/section12/eisagogi_modularity_twn_statistics.JPG>]
-<photos-files/section12/0.1/report.JPG, id=413, 217.5628pt x 231.11343pt>
+<photos-files/section12/0.1/report.JPG, id=415, 217.5628pt x 231.11343pt>
 File: photos-files/section12/0.1/report.JPG Graphic file (type jpg)
 <use photos-files/section12/0.1/report.JPG>
 Package pdftex.def Info: photos-files/section12/0.1/report.JPG  used on input l
-ine 479.
+ine 482.
 (pdftex.def)             Requested size: 135.50624pt x 143.95535pt.
-<photos-files/section12/0.1/no_label_layout.png, id=414, 362.85562pt x 441.1481
+<photos-files/section12/0.1/no_label_layout.png, id=416, 362.85562pt x 441.1481
 3pt>
 File: photos-files/section12/0.1/no_label_layout.png Graphic file (type png)
 <use photos-files/section12/0.1/no_label_layout.png>
 Package pdftex.def Info: photos-files/section12/0.1/no_label_layout.png  used o
-n input line 483.
+n input line 486.
 (pdftex.def)             Requested size: 271.0125pt x 329.4938pt.
-<photos-files/section12/0.1/lith_est_latv_community.png, id=415, 204.765pt x 15
+<photos-files/section12/0.1/lith_est_latv_community.png, id=417, 204.765pt x 15
 6.585pt>
 File: photos-files/section12/0.1/lith_est_latv_community.png Graphic file (type
  png)
 <use photos-files/section12/0.1/lith_est_latv_community.png>
 Package pdftex.def Info: photos-files/section12/0.1/lith_est_latv_community.png
-  used on input line 500.
+  used on input line 503.
 (pdftex.def)             Requested size: 162.60915pt x 124.35545pt.
-<photos-files/section12/0.1/swi_ost_deu_community.png, id=416, 383.93437pt x 27
+<photos-files/section12/0.1/swi_ost_deu_community.png, id=418, 383.93437pt x 27
 8.54062pt>
 File: photos-files/section12/0.1/swi_ost_deu_community.png Graphic file (type p
 ng)
 <use photos-files/section12/0.1/swi_ost_deu_community.png>
 Package pdftex.def Info: photos-files/section12/0.1/swi_ost_deu_community.png  
-used on input line 514.
+used on input line 517.
 (pdftex.def)             Requested size: 162.60915pt x 117.97229pt.
  [42 <./photos-files/section12/0.1/report.JPG> <./photos-files/section12/0.1/no
 _label_layout.png> <./photos-files/section12/0.1/lith_est_latv_community.png>]
-<photos-files/section12/0.1/asia_community.png, id=424, 501.37312pt x 406.51875
+<photos-files/section12/0.1/asia_community.png, id=426, 501.37312pt x 406.51875
 pt>
 File: photos-files/section12/0.1/asia_community.png Graphic file (type png)
 <use photos-files/section12/0.1/asia_community.png>
 Package pdftex.def Info: photos-files/section12/0.1/asia_community.png  used on
- input line 528.
+ input line 531.
 (pdftex.def)             Requested size: 162.60915pt x 131.84409pt.
-<photos-files/section12/0.1/vorioAfriki_middleEast.png, id=425, 477.28313pt x 3
+<photos-files/section12/0.1/vorioAfriki_middleEast.png, id=427, 477.28313pt x 3
 17.68687pt>
 File: photos-files/section12/0.1/vorioAfriki_middleEast.png Graphic file (type 
 png)
 <use photos-files/section12/0.1/vorioAfriki_middleEast.png>
 Package pdftex.def Info: photos-files/section12/0.1/vorioAfriki_middleEast.png 
- used on input line 542.
+ used on input line 545.
 (pdftex.def)             Requested size: 162.60915pt x 108.23508pt.
 
-Underfull \hbox (badness 5490) in paragraph at lines 549--553
+Underfull \hbox (badness 5490) in paragraph at lines 552--556
 []\LGR/LinuxLibertineT-TLF/m/n/12 To \OT1/LinuxLibertineT-TLF/m/n/12 com-mu-nit
 y \LGR/LinuxLibertineT-TLF/m/n/12 me Ëntono roz qr∏ma apotele–-tai apo ta
  []
 
-<photos-files/section12/0.1/ameriki_ipiros.png, id=426, 204.765pt x 121.95563pt
+<photos-files/section12/0.1/ameriki_ipiros.png, id=428, 204.765pt x 121.95563pt
 >
 File: photos-files/section12/0.1/ameriki_ipiros.png Graphic file (type png)
 <use photos-files/section12/0.1/ameriki_ipiros.png>
 Package pdftex.def Info: photos-files/section12/0.1/ameriki_ipiros.png  used on
- input line 556.
+ input line 559.
 (pdftex.def)             Requested size: 162.60915pt x 96.85374pt.
 [43 <./photos-files/section12/0.1/swi_ost_deu_community.png> <./photos-files/se
 ction12/0.1/asia_community.png> <./photos-files/section12/0.1/vorioAfriki_middl
 eEast.png> <./photos-files/section12/0.1/ameriki_ipiros.png>]
-<photos-files/section12/0.5/report.JPG, id=435, 210.7875pt x 237.88875pt>
+<photos-files/section12/0.5/report.JPG, id=437, 210.7875pt x 237.88875pt>
 File: photos-files/section12/0.5/report.JPG Graphic file (type jpg)
 <use photos-files/section12/0.5/report.JPG>
 Package pdftex.def Info: photos-files/section12/0.5/report.JPG  used on input l
-ine 584.
+ine 587.
 (pdftex.def)             Requested size: 135.50624pt x 152.93068pt.
-<photos-files/section12/0.5/pososta.JPG, id=436, 123.46124pt x 118.19156pt>
+<photos-files/section12/0.5/pososta.JPG, id=438, 123.46124pt x 118.19156pt>
 File: photos-files/section12/0.5/pososta.JPG Graphic file (type jpg)
 <use photos-files/section12/0.5/pososta.JPG>
 Package pdftex.def Info: photos-files/section12/0.5/pososta.JPG  used on input 
-line 588.
+line 591.
 (pdftex.def)             Requested size: 162.60915pt x 155.67789pt.
-<photos-files/section12/0.5/no_label_layout.JPG, id=437, 484.05844pt x 447.9234
+<photos-files/section12/0.5/no_label_layout.JPG, id=439, 484.05844pt x 447.9234
 3pt>
 File: photos-files/section12/0.5/no_label_layout.JPG Graphic file (type jpg)
 <use photos-files/section12/0.5/no_label_layout.JPG>
 Package pdftex.def Info: photos-files/section12/0.5/no_label_layout.JPG  used o
-n input line 595.
+n input line 598.
 (pdftex.def)             Requested size: 325.2183pt x 300.95465pt.
  [44 <./photos-files/section12/0.5/report.JPG> <./photos-files/section12/0.5/po
 sosta.JPG> <./photos-files/section12/0.5/no_label_layout.JPG>]
-<photos-files/section12/0.5/vietnam_j_forum.png, id=442, 317.68687pt x 165.6187
+<photos-files/section12/0.5/vietnam_j_forum.png, id=444, 317.68687pt x 165.6187
 4pt>
 File: photos-files/section12/0.5/vietnam_j_forum.png Graphic file (type png)
 <use photos-files/section12/0.5/vietnam_j_forum.png>
 Package pdftex.def Info: photos-files/section12/0.5/vietnam_j_forum.png  used o
-n input line 612.
+n input line 615.
 (pdftex.def)             Requested size: 186.99951pt x 97.49182pt.
 
-Overfull \hbox (24.39037pt too wide) in paragraph at lines 612--613
+Overfull \hbox (24.39037pt too wide) in paragraph at lines 615--616
 [][] 
  []
 
 [45 <./photos-files/section12/0.5/vietnam_j_forum.png>]
-<photos-files/section12/0.96/report.JPG, id=448, 213.04594pt x 234.1247pt>
+<photos-files/section12/0.96/report.JPG, id=450, 213.04594pt x 234.1247pt>
 File: photos-files/section12/0.96/report.JPG Graphic file (type jpg)
 <use photos-files/section12/0.96/report.JPG>
 Package pdftex.def Info: photos-files/section12/0.96/report.JPG  used on input 
-line 624.
+line 627.
 (pdftex.def)             Requested size: 135.50624pt x 148.92116pt.
-<photos-files/section12/0.96/pososta.JPG, id=449, 146.79843pt x 103.13531pt>
+<photos-files/section12/0.96/pososta.JPG, id=451, 146.79843pt x 103.13531pt>
 File: photos-files/section12/0.96/pososta.JPG Graphic file (type jpg)
 <use photos-files/section12/0.96/pososta.JPG>
 Package pdftex.def Info: photos-files/section12/0.96/pososta.JPG  used on input
- line 628.
+ line 631.
 (pdftex.def)             Requested size: 162.60915pt x 114.2439pt.
-<photos-files/section12/0.96/no_label_layout.JPG, id=450, 502.12593pt x 588.699
+<photos-files/section12/0.96/no_label_layout.JPG, id=452, 502.12593pt x 588.699
 37pt>
 File: photos-files/section12/0.96/no_label_layout.JPG Graphic file (type jpg)
 <use photos-files/section12/0.96/no_label_layout.JPG>
 Package pdftex.def Info: photos-files/section12/0.96/no_label_layout.JPG  used 
-on input line 634.
+on input line 637.
 (pdftex.def)             Requested size: 325.2183pt x 381.31161pt.
  [46 <./photos-files/section12/0.96/report.JPG> <./photos-files/section12/0.96/
 pososta.JPG> <./photos-files/section12/0.96/no_label_layout.JPG>] [47]
-<photos-files/section13/pagerank_1.JPG, id=459, 201.75375pt x 523.20468pt>
+<photos-files/section13/pagerank_1.JPG, id=461, 201.75375pt x 523.20468pt>
 File: photos-files/section13/pagerank_1.JPG Graphic file (type jpg)
 <use photos-files/section13/pagerank_1.JPG>
 Package pdftex.def Info: photos-files/section13/pagerank_1.JPG  used on input l
-ine 647.
+ine 650.
 (pdftex.def)             Requested size: 189.71205pt x 491.98012pt.
-<photos-files/section13/pagerank_2.JPG, id=460, 204.765pt x 532.23843pt>
+<photos-files/section13/pagerank_2.JPG, id=462, 204.765pt x 532.23843pt>
 File: photos-files/section13/pagerank_2.JPG Graphic file (type jpg)
 <use photos-files/section13/pagerank_2.JPG>
 Package pdftex.def Info: photos-files/section13/pagerank_2.JPG  used on input l
-ine 651.
+ine 654.
 (pdftex.def)             Requested size: 189.71205pt x 493.1412pt.
  [48 <./photos-files/section13/pagerank_1.JPG> <./photos-files/section13/pagera
 nk_2.JPG>]
-<photos-files/section13/layout.JPG, id=466, 681.29532pt x 630.85687pt>
+<photos-files/section13/layout.JPG, id=468, 681.29532pt x 630.85687pt>
 File: photos-files/section13/layout.JPG Graphic file (type jpg)
 <use photos-files/section13/layout.JPG>
 Package pdftex.def Info: photos-files/section13/layout.JPG  used on input line 
-659.
+662.
 (pdftex.def)             Requested size: 379.41585pt x 351.32335pt.
  [49 <./photos-files/section13/layout.JPG>] [50]
 
@@ -1670,10 +1679,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 6A2950DF68F7F5312A36963B3EBCB238;5474.
  ) 
 Here is how much of TeX's memory you used:
- 18399 strings out of 474485
- 328840 string characters out of 5744206
+ 18406 strings out of 474485
+ 329280 string characters out of 5744206
  1937528 words of memory out of 5000000
- 40335 multiletter control sequences out of 15000+600000
+ 40342 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,117p,2881b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1685,9 +1694,9 @@ eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on document.pdf (52 pages, 4212678 bytes).
+Output written on document.pdf (52 pages, 4225307 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
+ 543 PDF objects out of 1000 (max. 8388607)
  84 named destinations out of 1000 (max. 500000)
- 586 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 591 words of extra memory for PDF output out of 10000 (max. 10000000)
 
