@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  15 FEB 2024 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.11)  15 FEB 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1679,10 +1679,10 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 6A2950DF68F7F5312A36963B3EBCB238;5474.
  ) 
 Here is how much of TeX's memory you used:
- 18406 strings out of 474485
- 329280 string characters out of 5744206
+ 18407 strings out of 474485
+ 329290 string characters out of 5744206
  1937528 words of memory out of 5000000
- 40342 multiletter control sequences out of 15000+600000
+ 40343 multiletter control sequences out of 15000+600000
  578074 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,117p,2881b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1694,7 +1694,7 @@ eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on document.pdf (52 pages, 4225307 bytes).
+Output written on document.pdf (52 pages, 4226610 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  84 named destinations out of 1000 (max. 500000)
