@@ -12,10 +12,9 @@
 \contentsline {subsubsection}{\numberline {6.3.2}Out-Degree}{13}{subsubsection.6.3.2}%
 \contentsline {subsubsection}{\numberline {6.3.3}Total Degree}{16}{subsubsection.6.3.3}%
 \contentsline {section}{\numberline {7}Centrality measures}{19}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Degree}{19}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Betweenness Centrality}{19}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Closeness Centrality}{21}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Eigenvector Centrality}{24}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.1}Betweenness Centrality}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Closeness Centrality}{21}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Eigenvector Centrality}{24}{subsection.7.3}%
 \contentsline {section}{\numberline {8}Clustering Effects}{27}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Average Clustering Coefficient}{27}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Number of Triangles}{28}{subsection.8.2}%
