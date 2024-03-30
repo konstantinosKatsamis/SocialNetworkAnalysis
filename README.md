@@ -1,4 +1,4 @@
-# SocialNetworkAnalysis
+# Social Network Analysis
  Analysis of a network in the context of Social Network Analysis class.
 
  The preferred network for analysis is Samsung's Youtube Channel.
