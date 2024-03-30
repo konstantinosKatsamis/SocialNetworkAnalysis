@@ -11,3 +11,7 @@ which channels play a critical role in the network.
  Analysis include the basic properties of the network such as component measures, basic topological properties, degree measures, centrality measures, clustering effects in the network, Bridges and local bridges, gender and homophily, graph density, community structure (modularity) and PageRank.
 
  ![second_painting](https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/63a48cd9-442c-4869-81e2-feaac0ee17bd <!-- width="400" height="300" -->)
+
+
+
+<img src="https://private-user-images.githubusercontent.com/75335809/318189020/a6df9a82-bb92-43aa-81c4-5abf738ddbd2.JPG" width="400" height="300">
