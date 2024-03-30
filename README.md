@@ -13,6 +13,6 @@ which channels play a critical role in the network.
 
 
 <div style="display: flex;">
-    <img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/8f388725-f9b6-4c64-adda-0cc46f5dfa78" style="width: 50%;">
-    <img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/175d21df-5b40-4d1b-b460-dae951c05748" style="width: 50%;">
+    <img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/8f388725-f9b6-4c64-adda-0cc46f5dfa78" style="width: auto; height: 400px;">
+    <img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/175d21df-5b40-4d1b-b460-dae951c05748" style="width: auto; height: 400px;">
 </div>
