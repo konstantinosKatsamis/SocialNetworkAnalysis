@@ -14,4 +14,4 @@ which channels play a critical role in the network.
 
 
 
-<img src="https://private-user-images.githubusercontent.com/75335809/318189020/a6df9a82-bb92-43aa-81c4-5abf738ddbd2.JPG" width="400" height="300">
+<img src="https://private-user-images.githubusercontent.com/75335809/318189020/a6df9a82-bb92-43aa-81c4-5abf738ddbd2.JPG" height="300">
