@@ -8,6 +8,6 @@ which channels play a critical role in the network.
 
 ![first_painting](https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/a6df9a82-bb92-43aa-81c4-5abf738ddbd2)
 
-<img src="[IMG_LINK](https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/a6df9a82-bb92-43aa-81c4-5abf738ddbd2)" width="100" height="100"/>
+<img src="![first_painting](https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/a6df9a82-bb92-43aa-81c4-5abf738ddbd2)" width="100" height="100"/>
 
 
