@@ -6,8 +6,11 @@
  The procedure to achieve this analysis was to fetch and clean the data, import them in Gephi and perform a network analysis approach to understand
 which channels play a critical role in the network.
 
-<img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/4993c439-fbc7-404e-b5b6-e4796ec764a3" width="450">
-
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <img src="https://github.com/konstantinosKatsamis/SocialNetworkAnalysis/assets/75335809/4993c439-fbc7-404e-b5b6-e4796ec764a3" width="450">
+    </div>
+</div>
 
  Analysis include the basic properties of the network such as component measures, basic topological properties, degree measures, centrality measures, clustering effects in the network, Bridges and local bridges, gender and homophily, graph density, community structure (modularity) and PageRank.
 
